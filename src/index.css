@@ -1,0 +1,164 @@
+@import '@fontsource/source-sans-3/400.css';
+@import '@fontsource/source-sans-3/500.css';
+@import '@fontsource/source-sans-3/600.css';
+@import '@fontsource/source-sans-3/700.css';
+@import '@fontsource/source-serif-4/400.css';
+@import '@fontsource/source-serif-4/500.css';
+@import '@fontsource/source-serif-4/600.css';
+@import '@fontsource/source-serif-4/700.css';
+@import '@fontsource/inter/400.css';
+@import '@fontsource/inter/500.css';
+@import '@fontsource/inter/600.css';
+@import '@fontsource/inter/700.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-body text-stanford-black antialiased;
+  }
+  
+  .dark body {
+    @apply text-fog-light;
+  }
+  
+  h1, h2, h3, h4 {
+    @apply font-display;
+  }
+}
+
+@layer components {
+  /* Card styles */
+  .card {
+    @apply bg-white dark:bg-stanford-charcoal rounded-2xl border border-fog dark:border-stone-dark/30;
+  }
+  
+  .card-elevated {
+    @apply card shadow-lg shadow-black/5 dark:shadow-black/20;
+  }
+  
+  /* Button styles */
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-full font-semibold text-sm tracking-wide transition-all duration-300;
+  }
+  
+  .btn-primary {
+    @apply bg-cardinal text-white hover:bg-cardinal-dark hover:shadow-lg hover:shadow-cardinal/25 hover:-translate-y-0.5;
+  }
+  
+  .btn-secondary {
+    @apply bg-transparent border-2 border-stanford-black dark:border-fog-light text-stanford-black dark:text-fog-light hover:bg-stanford-black hover:text-white dark:hover:bg-fog-light dark:hover:text-stanford-charcoal;
+  }
+  
+  .btn-ghost {
+    @apply bg-transparent text-stanford-black dark:text-fog-light hover:bg-fog/50 dark:hover:bg-stone-dark/30;
+  }
+  
+  /* Glass effect */
+  .glass {
+    @apply bg-white/70 dark:bg-stanford-charcoal/70 backdrop-blur-xl;
+  }
+  
+  /* Gradient text */
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-cardinal via-cardinal-light to-cardinal;
+  }
+  
+  /* Section container */
+  .section {
+    @apply py-24 md:py-32;
+  }
+  
+  .container-narrow {
+    @apply max-w-5xl mx-auto px-6;
+  }
+  
+  .container-wide {
+    @apply max-w-7xl mx-auto px-6;
+  }
+  
+  /* Branch card colors */
+  .branch-comms {
+    @apply border-comms/30 hover:border-comms hover:shadow-comms/10;
+  }
+  
+  .branch-events {
+    @apply border-events/30 hover:border-events hover:shadow-events/10;
+  }
+  
+  .branch-research {
+    @apply border-research/30 hover:border-research hover:shadow-research/10;
+  }
+  
+  .branch-innovation {
+    @apply border-innovation/30 hover:border-innovation hover:shadow-innovation/10;
+  }
+}
+
+@layer utilities {
+  /* Animated gradient background */
+  .animate-gradient-bg {
+    background-size: 300% 300%;
+    animation: gradient 8s ease infinite;
+  }
+  
+  /* Noise texture overlay */
+  .noise {
+    position: relative;
+  }
+  
+  .noise::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+    opacity: 0.03;
+    pointer-events: none;
+  }
+  
+  .dark .noise::before {
+    opacity: 0.05;
+  }
+  
+  /* Text balance */
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  /* Focus styles */
+  .focus-ring {
+    @apply focus:outline-none focus-visible:ring-2 focus-visible:ring-cardinal focus-visible:ring-offset-2 dark:focus-visible:ring-offset-stanford-charcoal;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-fog-light dark:bg-stanford-charcoal;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-stone/50 dark:bg-stone-dark rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-stone dark:bg-stone;
+}
+
+/* Selection */
+::selection {
+  @apply bg-cardinal/20 text-cardinal;
+}
+
+.dark ::selection {
+  @apply bg-cardinal/30 text-cardinal-light;
+}

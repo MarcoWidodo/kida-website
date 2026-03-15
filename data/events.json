@@ -1,0 +1,82 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Development Policy Lunch: Climate Finance in Sub-Saharan Africa",
+      "date": "2025-02-15",
+      "time": "12:00 PM",
+      "location": "Encina Hall, Room 355",
+      "type": "speaker",
+      "branch": "events",
+      "description": "Join us for a conversation with Dr. Sarah Chen on climate adaptation financing mechanisms and their impact on agricultural communities.",
+      "speaker": "Dr. Sarah Chen",
+      "speakerTitle": "Senior Fellow, King Center for Global Development",
+      "image": "/images/STANFORD_JPEGS00414.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Research Workshop: Introduction to Impact Evaluation",
+      "date": "2025-02-22",
+      "time": "3:00 PM",
+      "location": "Virtual",
+      "type": "workshop",
+      "branch": "research",
+      "description": "A hands-on workshop covering the fundamentals of randomized controlled trials and quasi-experimental methods in development economics.",
+      "image": "/images/PVP_9314.jpg"
+    },
+    {
+      "id": "3",
+      "title": "KIDA Datathon 2025: Health Systems Data Challenge",
+      "date": "2025-03-08",
+      "time": "9:00 AM",
+      "location": "Huang Engineering Center",
+      "type": "special",
+      "branch": "innovation",
+      "description": "Our annual flagship event! Teams compete to analyze real health systems data from our NGO partners and develop actionable policy recommendations.",
+      "image": "/images/iStock1153292704.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Career Panel: Pathways to International Development",
+      "date": "2025-03-15",
+      "time": "5:00 PM",
+      "location": "GSB Arbuckle Dining Pavilion",
+      "type": "panel",
+      "branch": "events",
+      "description": "Hear from Stanford alumni working at the World Bank, USAID, and leading development NGOs about their career trajectories.",
+      "image": "/images/General2.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Social Media Strategy Workshop",
+      "date": "2025-01-25",
+      "time": "4:00 PM",
+      "location": "Virtual",
+      "type": "workshop",
+      "branch": "comms",
+      "description": "Learn how to effectively communicate development research findings to broader audiences through social media.",
+      "past": true,
+      "image": "/images/STANFORD_JPEGS00480.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Faculty Research Talk: Mobile Money and Financial Inclusion",
+      "date": "2025-01-18",
+      "time": "12:00 PM",
+      "location": "Encina Hall, Room 355",
+      "type": "speaker",
+      "branch": "research",
+      "description": "Professor Michael Osei presents findings from a multi-year study on mobile banking adoption in East Africa.",
+      "speaker": "Professor Michael Osei",
+      "speakerTitle": "Associate Professor of Economics",
+      "past": true,
+      "image": "/images/rwanda_coffee_3.jpg"
+    }
+  ],
+  "eventTypes": {
+    "speaker": { "label": "Speaker Series", "color": "cardinal" },
+    "workshop": { "label": "Workshop", "color": "research" },
+    "panel": { "label": "Panel Discussion", "color": "events" },
+    "special": { "label": "Special Event", "color": "innovation" }
+  }
+}
