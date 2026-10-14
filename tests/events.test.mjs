@@ -28,6 +28,8 @@ test('unsafe links and malformed dates cannot enter the public catalogue',()=>{
  assert.equal(safeURL('javascript:alert(1)'),null);
  assert.equal(safeURL('https://user:password@example.com'),null);
  assert.equal(safeURL('/assets/../secret',{local:true}),null);
+ assert.equal(safeURL('https://www.stanfordkida.com/assets/posters/claire-adida.webp',{local:true}),'/assets/posters/claire-adida.webp');
+ assert.equal(safeURL('https://example.com/assets/poster.webp',{local:true}),'https://example.com/assets/poster.webp');
  assert.equal(validDate('2026-02-30'),false);
  assert.equal(normalizeEvent({...sample,date:'2026-02-30'}),null);
  assert.equal(normalizeEvent({...sample,sourceUrl:'data:text/html,x'}),null);

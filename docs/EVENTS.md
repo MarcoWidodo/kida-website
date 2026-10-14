@@ -1,6 +1,6 @@
 # Updating KIDA events
 
-Use the separate **KIDA Event Review** Google Sheet.
+Use the separate [KIDA Event Review Google Sheet](https://docs.google.com/spreadsheets/d/1hqcCfCGEKaI8NTZIxrQzOaIgvnytyCwNEn-GHuFKd2E/edit).
 
 1. Add or edit a row on **Events**.
 2. Keep new records **Pending** while checking development relevance and student access.
@@ -12,6 +12,8 @@ Use stable lowercase event IDs with hyphens. Required public fields are ID, titl
 The **PublicFeed** tab contains formulas for Events rows 2–1000. It exposes approved public fields and excludes review notes, eligibility evidence, relevance rationale, and verification metadata. Edit Events rather than PublicFeed. Publish only PublicFeed to the web as CSV, with automatic republishing enabled.
 
 The Vercel EVENTS_SHEET_CSV_URL environment variable holds that public CSV URL. GET /api/events validates and normalizes records, excludes unsafe links and nonpublic fields, and caches successful responses for one minute. Google may take a few minutes to republish spreadsheet changes.
+
+PublicFeed is published as CSV with automatic republishing enabled. The workbook's normal sharing remains private. No redeployment is needed for approved event edits within rows 2–1000.
 
 The website refreshes while visible, on focus, and once per minute. It retains its last successful archive during a temporary feed failure. New visitors initially see the verified archive bundled with the deployment; a failed live refresh shows a retry notice on Events.
 
