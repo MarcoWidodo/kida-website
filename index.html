@@ -1,14 +1,23 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>KIDA | King International Development Association</title>
-    <meta name="description" content="Stanford's hub for students driven to tackle global development challenges. Connecting undergraduates with research, mentorship, and hands-on experiences in international development." />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta name="color-scheme" content="light dark">
+ <meta name="theme-color" content="#ffffff">
+ <meta name="description" content="Find your path to global development at Stanford. KIDA connects students with ideas, conversations, and opportunities across campus.">
+ <meta property="og:title" content="Stanford KIDA">
+ <meta property="og:description" content="Find your path to global development at Stanford.">
+ <meta property="og:image" content="https://www.stanfordkida.com/assets/logos/kida-red.png">
+ <meta property="og:type" content="website">
+ <title>KIDA — Find your path to global development at Stanford.</title>
+ <script>try{document.documentElement.dataset.theme=localStorage.getItem('kida-theme')==='dark'?'dark':'light'}catch{document.documentElement.dataset.theme='light'}</script>
+ <script>document.documentElement.dataset.motion=(matchMedia('(prefers-reduced-motion:reduce)').matches||new URLSearchParams(location.search).get('motion')==='reduce')?'reduced':'full'</script>
+ <link rel="icon" href="/favicon.ico" sizes="any">
+ <link rel="icon" href="/assets/logos/kida-red.png" type="image/png">
+ <link rel="apple-touch-icon" href="/assets/logos/apple-touch-icon.png">
+ <link rel="preload" href="/assets/fonts/source-serif-4-regular.ttf" as="font" type="font/ttf" crossorigin>
+ <link rel="preload" href="/assets/fonts/source-serif-4-italic.ttf" as="font" type="font/ttf" crossorigin>
+</head>
+<body><div id="root"></div><script type="module" src="/src/main.jsx"></script></body>
 </html>
