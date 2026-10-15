@@ -41,7 +41,7 @@ export function EventProvider({children}) {
   return <EventContext.Provider value={{events,notice,retry}}>{children}</EventContext.Provider>;
 }
 export const useEvents=()=>useContext(EventContext);
-export const organizationColors={'KIDA':'#8c1515','King Center':'#8c1515','GSB':'#8f993e','CDDRL':'#00548f','APARC':'#620059','International Relations':'#d1660f','Political Science':'#00548f','Stanford Law':'#d1660f','Other':'#620059','Global Health':'#8f993e'};
+export const organizationColors={'KIDA':'#8c1515','King Center':'#8c1515','GSB':'#8f993e','CDDRL':'#00548f','APARC':'#620059','International Relations':'#d1660f','Political Science':'#00548f','Stanford Law':'#d1660f','Other':'#620059','Global Health':'#8f993e','Human Rights':'#620059','Data Science':'#00548f','SCCEI':'#8f993e','Economics':'#00548f','SIEPR':'#d1660f'};
 export function eventDate(event) {
   const format=iso=>new Intl.DateTimeFormat('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'}).format(new Date(iso+'T12:00:00Z'));
   return format(event.date)+(event.endDate && event.endDate!==event.date ? ' – '+format(event.endDate) : '');

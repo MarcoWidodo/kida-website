@@ -16,6 +16,8 @@ The optional server-only EVENTS_SHEET_CSV_URL variable enables the same event en
 
 See [event maintenance](docs/EVENTS.md) for the editorial workflow. Source asset originals are preserved; optimized copies live under public/assets.
 
+The Opportunities page has a separate approval editor, undergraduate eligibility gates, automatic expiry, and Map/List views. See [opportunity maintenance](docs/OPPORTUNITIES.md). Tools is a clearly marked work in progress.
+
 ## Checks
 
     node --test tests/events.test.mjs

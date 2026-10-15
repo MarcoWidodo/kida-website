@@ -1,0 +1,183 @@
+[
+  {
+    "id": "king-center-undergraduate-research",
+    "organization": "King Center",
+    "title": "King Center undergraduate research programs and current calls",
+    "url": "https://kingcenter.stanford.edu/opportunities/undergraduate-students",
+    "relatedUrls": [
+      "https://kingcenter.stanford.edu/opportunities/undergraduate-students/academic-year-part-time-undergraduate-research-fellow/current",
+      "https://kingcenter.stanford.edu/opportunities/undergraduate-students/summer-full-time-undergraduate-research-fellow-program/current"
+    ],
+    "acquisitionMethod": "Manual review of public official HTML and each linked SOLO opportunity.",
+    "provenFormat": "Public HTML pages with project titles, mentor names, and explicit cycle/deadline text; linked SOLO pages hold applications.",
+    "machineFeedStatus": "No documented official opportunity feed or API verified in this research.",
+    "possibleAutomation": "An HTML change detector could queue new or changed project links for editorial review; this is a proposed path, not an existing integration.",
+    "reviewCadence": "Weekly; twice weekly around Autumn and Winter application periods.",
+    "filtering": "Undergraduate program calls only. Exclude graduate, predoctoral, postdoctoral, and faculty funding; check each project's skills and enrollment rules.",
+    "expiryChecks": "Read project-specific deadline and timezone. Close dated calls after expiry even if they remain under Current Opportunities. Never infer a new cycle from a reused URL.",
+    "verifiedOn": "2026-10-14",
+    "notes": "Current AY2026–27 calls were due October 6 or 11; all had passed. Summer page explicitly identifies 2027 but has no project list or deadline yet."
+  },
+  {
+    "id": "king-center-mckinnon",
+    "organization": "King Center",
+    "title": "Ronald I. McKinnon Memorial Fellowship",
+    "url": "https://kingcenter.stanford.edu/opportunities/undergraduate-students/ronald-i-mckinnon-memorial-fellowship",
+    "relatedUrls": [],
+    "acquisitionMethod": "Manual review of the official program page and any newly published call.",
+    "provenFormat": "Public HTML eligibility and application guidance.",
+    "machineFeedStatus": "No documented feed or API verified.",
+    "possibleAutomation": "Monitor the Application Deadline section for changes and send changed text to a review queue.",
+    "reviewCadence": "Monthly; weekly during Winter and Spring.",
+    "filtering": "Stanford undergraduate honors-thesis support. Prefer proposals with a substantive economic-development question.",
+    "expiryChecks": "Require an explicit date and cycle before displaying Open. A blank deadline heading is not evidence of rolling admission.",
+    "verifiedOn": "2026-10-14",
+    "notes": "Deadline heading is blank on the reviewed page; seed is an Explore program record."
+  },
+  {
+    "id": "siepr-undergraduate-research",
+    "organization": "SIEPR",
+    "title": "SIEPR Undergraduate Research Fellows",
+    "url": "https://siepr.stanford.edu/programs/undergraduate-student-opportunities/undergraduate-research-fellows-program/academic-year",
+    "relatedUrls": [
+      "https://siepr.stanford.edu/programs/undergraduate-student-opportunities/undergraduate-research-fellows-program/siepr-summer"
+    ],
+    "acquisitionMethod": "Manual review of project headings, Open position labels, quarter dates, and the linked official application form.",
+    "provenFormat": "Public HTML with project-level status, descriptions, qualifications, and a linked Smartsheet form.",
+    "machineFeedStatus": "No official feed/API verified. The application form is an application destination, not a listing API.",
+    "possibleAutomation": "A page-diff parser could queue additions and status changes; human review must still determine development relevance and undergraduate fit.",
+    "reviewCadence": "At least weekly, and immediately before promoting an undated opening.",
+    "filtering": "Only undergraduate roles whose research directly addresses development, inequality, public institutions, health, education, environment, or economic opportunity. Exclude generic economics/data roles without that connection.",
+    "expiryChecks": "Check the current quarter, project status, and form destination. Undated Open records should lose their Open label if not reverified within seven days; never treat program end as application deadline.",
+    "verifiedOn": "2026-10-14",
+    "notes": "Brazil vocational education is explicitly listed as Open in Autumn 2026. A separate King Center route with the same mentor has an expired deadline, so application routes need separate status checks."
+  },
+  {
+    "id": "sig-fellowships",
+    "organization": "Stanford in Government",
+    "title": "SIG international fellowships and application information",
+    "url": "https://sig.stanford.edu/international-fellowships",
+    "relatedUrls": [
+      "https://sig.stanford.edu/fellowships-application-information",
+      "https://sig.stanford.edu/fellowships"
+    ],
+    "acquisitionMethod": "Manual review of SIG's official listings, host pages, cycle guidance, and linked SOLO calls.",
+    "provenFormat": "Public HTML program and placement pages; linked SOLO application calls.",
+    "machineFeedStatus": "No official feed/API verified.",
+    "possibleAutomation": "Monitor international placement links and annual call text, then queue changes for approval. Do not automatically copy every SIG host.",
+    "reviewCadence": "Every two weeks in Autumn; weekly December–February.",
+    "filtering": "Select individual development-relevant hosts and duties. Check continuing-undergraduate, coterm, nationality, language, clearance, and skills requirements at placement level.",
+    "expiryChecks": "Use the cycle-specific SOLO call as the application authority. Flag conflicting years or timelines for manual resolution; do not repair them by guessing.",
+    "verifiedOn": "2026-10-14",
+    "notes": "The application page mixes a December 22, 2026 release with expired January/February 2026 deadlines. No 2027 deadline is asserted in the seed."
+  },
+  {
+    "id": "sig-stipends",
+    "organization": "Stanford in Government",
+    "title": "SIG self-arranged policy internship stipends",
+    "url": "https://sig.stanford.edu/stipends-application-information",
+    "relatedUrls": [],
+    "acquisitionMethod": "Manual review of the annual stipend guidance and linked current SOLO call.",
+    "provenFormat": "Public HTML eligibility and annual deadlines.",
+    "machineFeedStatus": "No official feed/API verified.",
+    "possibleAutomation": "Monitor annual deadline and application-link changes, with an editor checking year and placement requirements.",
+    "reviewCadence": "Monthly; weekly during Winter and Spring application rounds.",
+    "filtering": "Funding for self-arranged development-policy work only. Direct service or general nonprofit employment is not automatically eligible under SIG's policy criteria.",
+    "expiryChecks": "Close each round at its published deadline. Keep evergreen program separate from dated calls and do not imply that SIG supplies the placement.",
+    "verifiedOn": "2026-10-14",
+    "notes": "2026 deadlines February 16 and April 14 are past; next-cycle dates were not verified."
+  },
+  {
+    "id": "fsi-global-policy",
+    "organization": "FSI",
+    "title": "FSI Global Policy Internships",
+    "url": "https://fsi.stanford.edu/studentprograms/internships/global-policy-internships",
+    "relatedUrls": [
+      "https://fsi.stanford.edu/studentprograms/internships/global-policy-internships/frequently-asked-questions"
+    ],
+    "acquisitionMethod": "Manual review of FSI's program and each official current SOLO placement.",
+    "provenFormat": "Public HTML program overview and eligibility; placement links lead to official opportunity pages.",
+    "machineFeedStatus": "No official feed/API verified.",
+    "possibleAutomation": "Capture new linked SOLO calls as draft candidates; review host requirements and development relevance before approval.",
+    "reviewCadence": "Monthly in Autumn; weekly December–February.",
+    "filtering": "Allow undergraduate-accessible development-policy placements. Exclude graduate-only hosts, security-policy roles without a development connection, and positions with incompatible enrollment requirements.",
+    "expiryChecks": "Require a dated current-cycle call. The program landing page and FAQ describe different typical closing windows; specific placement deadlines take precedence.",
+    "verifiedOn": "2026-10-14",
+    "notes": "Program accepts students at all levels but individual host requirements vary. A general annual window is not a verified 2027 deadline."
+  },
+  {
+    "id": "sgs-internships",
+    "organization": "Stanford Global Studies",
+    "title": "Global Studies Internship Program",
+    "url": "https://solo.stanford.edu/programs/global-studies-internship-program",
+    "relatedUrls": [
+      "https://sgs.stanford.edu/internships/application",
+      "https://sgs.stanford.edu/funding-opportunities/global-studies-internships"
+    ],
+    "acquisitionMethod": "Manual review of official SOLO open/closed listings and the SGS eligibility/application pages.",
+    "provenFormat": "Public HTML with Open now/coming soon and Closed & recurring categories, plus opportunity detail links.",
+    "machineFeedStatus": "No documented RSS/API verified; visible HTML categories are not a feed guarantee.",
+    "possibleAutomation": "A permitted HTML monitor could queue newly open detail links; an editor must inspect the host, duties, undergraduate requirements, and current cycle.",
+    "reviewCadence": "Every two weeks in Autumn; weekly December–February.",
+    "filtering": "Choose only development, health, education, rights, environment, or public-institutions roles. Exclude unrelated business, arts, or technology placements despite their international location.",
+    "expiryChecks": "Require an open current-cycle detail page and verify enrollment through funding/internship. Expire archived January/February 2026 calls; remote status must be verified per position.",
+    "verifiedOn": "2026-10-14",
+    "notes": "Reviewed SOLO page reports zero open/coming-soon positions and 52 closed/recurring entries."
+  },
+  {
+    "id": "human-rights-fellowships",
+    "organization": "Human Rights Center",
+    "title": "Human Rights Summer Fellowship",
+    "url": "https://humanrights.stanford.edu/opportunities/internships-and-fellowships/human-rights-summer-fellowship",
+    "relatedUrls": [
+      "https://sgs.stanford.edu/internships/human-rights-summer-fellowship-2026"
+    ],
+    "acquisitionMethod": "Manual review of the official program page and dated SGS/SOLO call.",
+    "provenFormat": "Public HTML program requirements and dated application pages.",
+    "machineFeedStatus": "No official feed/API verified.",
+    "possibleAutomation": "Monitor the program application link and new annual SGS/SOLO calls; review discrepancies before copying award amounts or requirements.",
+    "reviewCadence": "Monthly in Autumn; weekly December–February.",
+    "filtering": "Undergraduate-eligible human-rights and international-justice work with a clear community or development connection. Require applicable course prerequisites and host support.",
+    "expiryChecks": "Read a current-year deadline. Do not label an undated evergreen page Open or reuse February 10, 2026 for a later cycle.",
+    "verifiedOn": "2026-10-14",
+    "notes": "Evergreen page retains old COVID wording and differs from the 2026 call on stipend amount. Public seed omits the amount and treats it as a planning resource."
+  },
+  {
+    "id": "haas-international-service",
+    "organization": "Haas Center",
+    "title": "International Public Service and African Service fellowships",
+    "url": "https://solo.stanford.edu/programs/international-public-service-fellowships",
+    "relatedUrls": [
+      "https://solo.stanford.edu/programs/african-service-fellowships",
+      "https://haas.stanford.edu/student-programs/fellowships-and-internships/undergraduate-fellowships",
+      "https://africanstudies.stanford.edu/academics/fellowships"
+    ],
+    "acquisitionMethod": "Manual review of the official SOLO program, current call, and Cardinal Quarter eligibility guidance.",
+    "provenFormat": "Public HTML program pages with open/closed counts and links to current opportunity calls.",
+    "machineFeedStatus": "No documented official feed/API verified.",
+    "possibleAutomation": "Queue newly opened program calls from SOLO, then review eligibility and dates. Track African Service as a related funding track to avoid duplicate application claims.",
+    "reviewCadence": "Monthly in Autumn; weekly December–February.",
+    "filtering": "Continuing-undergraduate development/public-service projects only. Assess the community-defined work and proposed partner rather than treating all international travel as development.",
+    "expiryChecks": "Use the current call, not evergreen program boilerplate, for deadline, stipend, travel, and student-year rules. Mark old-cycle calls closed even if still linked.",
+    "verifiedOn": "2026-10-14",
+    "notes": "Both reviewed program pages have zero open opportunities. Official pages disagree on older stipend amounts; seed omits amounts."
+  },
+  {
+    "id": "unv-online",
+    "organization": "United Nations Volunteers",
+    "title": "UNV Online Volunteering",
+    "url": "https://www.unv.org/become-online-volunteer",
+    "relatedUrls": [
+      "https://app.unv.org/"
+    ],
+    "acquisitionMethod": "Manual review of official program rules; discover individual assignments in the official Unified Volunteering Platform.",
+    "provenFormat": "Public official HTML eligibility guidance; official assignment platform.",
+    "machineFeedStatus": "No documented official feed/API verified. Direct HTML collection returned HTTP 403 during validation; review this source in the browser.",
+    "possibleAutomation": "Investigate an official export/feed or agreed partner intake before building an importer. Until then, manually enter selected assignments with their own evidence and deadlines.",
+    "reviewCadence": "Program rules monthly; any promoted individual assignment at least weekly and immediately before featuring.",
+    "filtering": "Online assignments accepting applicants aged 18+ whose skills and education requirements allow undergraduates. Exclude degree/experience-restricted professional assignments and unrelated communications tasks.",
+    "expiryChecks": "Individual assignments require their own current deadline/status; a live platform does not make every listed assignment open. Preserve unpaid status and avoid presenting it as UN employment.",
+    "verifiedOn": "2026-10-14",
+    "notes": "Seed is an Explore program portal and claims no particular available assignment."
+  }
+]

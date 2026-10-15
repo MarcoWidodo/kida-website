@@ -11,9 +11,9 @@ const headers=['id','title','date','description','sourceUrl'];
 const fixture=csv([headers,[sample.id,sample.title,sample.date,'First paragraph, including a comma.\n\nA second "quoted" paragraph.',sample.sourceUrl]]);
 
 test('all researched seed records are valid with stable distinct identifiers',()=>{
- assert.equal(seed.length,44);
- assert.equal(normalizeEvents(seed).length,44);
- assert.equal(new Set(seed.map(e=>e.id)).size,44);
+ assert.equal(seed.length,58);
+ assert.equal(normalizeEvents(seed).length,58);
+ assert.equal(new Set(seed.map(e=>e.id)).size,58);
  assert.ok(seed.some(e=>e.kidaRole==='Shared opportunity'));
 });
 test('public normalization omits editorial and review fields',()=>{

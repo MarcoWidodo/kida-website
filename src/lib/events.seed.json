@@ -1105,8 +1105,7 @@
     "poster": null,
     "series": "Law and Policy Lab Skills Workshops",
     "sources": [
-      "https://law.stanford.edu/event/policy-lab-workshop-using-ai-in-law-and-policy-research/",
-      "https://law.stanford.edu/wp-json/tribe/events/v1/events/584121"
+      "https://law.stanford.edu/event/policy-lab-workshop-using-ai-in-law-and-policy-research/"
     ]
   },
   {
@@ -1137,8 +1136,7 @@
     "poster": null,
     "series": "Law and Policy Lab Skills Workshops",
     "sources": [
-      "https://law.stanford.edu/event/policy-lab-workshop-introduction-to-systems-thinking/",
-      "https://law.stanford.edu/wp-json/tribe/events/v1/events/584332"
+      "https://law.stanford.edu/event/policy-lab-workshop-introduction-to-systems-thinking/"
     ]
   },
   {
@@ -1167,8 +1165,7 @@
     "poster": null,
     "series": "Law and Policy Lab Skills Workshops",
     "sources": [
-      "https://law.stanford.edu/event/policy-lab-workshop-workshop-writing-policy-reports-and-using-ai-for-drafting/",
-      "https://law.stanford.edu/wp-json/tribe/events/v1/events/584219"
+      "https://law.stanford.edu/event/policy-lab-workshop-workshop-writing-policy-reports-and-using-ai-for-drafting/"
     ]
   },
   {
@@ -1196,8 +1193,7 @@
     "poster": null,
     "series": "Law and Policy Lab Skills Workshops",
     "sources": [
-      "https://law.stanford.edu/event/policy-lab-workshop-oral-briefings-for-public-policy/",
-      "https://law.stanford.edu/wp-json/tribe/events/v1/events/583264"
+      "https://law.stanford.edu/event/policy-lab-workshop-oral-briefings-for-public-policy/"
     ]
   },
   {
@@ -1226,8 +1222,7 @@
     "poster": null,
     "series": "Law and Policy Lab Skills Workshops",
     "sources": [
-      "https://law.stanford.edu/event/policy-lab-workshop-writing-op-eds-blogs-opinion-pieces/",
-      "https://law.stanford.edu/wp-json/tribe/events/v1/events/583266"
+      "https://law.stanford.edu/event/policy-lab-workshop-writing-op-eds-blogs-opinion-pieces/"
     ]
   },
   {
@@ -1288,6 +1283,430 @@
     "series": "Sustainability Research Conference Series",
     "sources": [
       "https://www.gsb.stanford.edu/events/marketing-sustainability"
+    ]
+  },
+  {
+    "id": "humanrights-uyghur-technology-forced-labor-2025",
+    "title": "Technology, Forced Labor, and the Uyghur Genocide",
+    "date": "2025-12-02",
+    "endDate": null,
+    "startTime": "16:00",
+    "endTime": "17:30",
+    "timezone": "America/Los_Angeles",
+    "location": "Encina Commons 123, 615 Crothers Way",
+    "organization": "Human Rights",
+    "host": "Abbasi Program in Islamic Studies, Center for Human Rights and International Justice, Center for East Asian Studies, and Hoover Institution",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Governance & institutions",
+      "Technology & enterprise",
+      "Poverty & livelihoods"
+    ],
+    "audience": "Everyone; free event",
+    "summary": "Rushan Abbas and Glenn Tiffert examined surveillance, forced labor, and human rights in global supply chains.",
+    "description": [
+      "The program examined connections between surveillance technologies, AI-enabled policing, forced labor, and repression of Uyghur communities. Opening remarks by Glenn Tiffert considered research systems and the international spread of repressive technologies.",
+      "Rushan Abbas connected these systems to Uyghur families' experiences and global supply chains. A joint question-and-answer discussion addressed technology, governance, and accountability. The Stanford calendar listed this free event as open to everyone."
+    ],
+    "sourceUrl": "https://humanrights.stanford.edu/events/technology-forced-labor-and-uyghur-genocide-rushan-abbas",
+    "poster": "https://islamicstudies.stanford.edu/sites/islamicstudies/files/media/image/1202rushanabbas_uyghurgenocide_0.png",
+    "series": "",
+    "sources": [
+      "https://humanrights.stanford.edu/events/technology-forced-labor-and-uyghur-genocide-rushan-abbas",
+      "https://events.stanford.edu/event/rushan-abbas"
+    ]
+  },
+  {
+    "id": "humanrights-international-law-policy-careers-2026",
+    "title": "Careers in International Law and Policy",
+    "date": "2026-01-20",
+    "endDate": null,
+    "startTime": "12:45",
+    "endTime": null,
+    "timezone": "America/Los_Angeles",
+    "location": "Encina Hall, Suite 030, 616 Jane Stanford Way",
+    "organization": "Human Rights",
+    "host": "Center for Human Rights and International Justice",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Development opportunities",
+      "Governance & institutions",
+      "Aid & development practice"
+    ],
+    "audience": "Stanford students; RSVP required",
+    "summary": "Stanford scholars discussed routes into careers in international law, human rights, and public policy.",
+    "description": [
+      "This student career workshop brought together Beth Van Schaack, Julia Spiegel, and E. Tendayi Achiume, with Penelope Van Tuyl moderating. The panel offered guidance on pursuing careers in international law and policy.",
+      "Their work spans human rights, migration, accountability, and public service. Attendance was limited to Stanford students, with an RSVP required and lunch provided. The listing gives a start time but does not specify an end time."
+    ],
+    "sourceUrl": "https://humanrights.stanford.edu/events/careers-international-law-and-policy",
+    "poster": "https://humanrights.stanford.edu/sites/humanrights/files/styles/hs_medium_scaled_360px/public/events/localist/careers-in-international-law-and-policy_.jpg.webp?itok=vOpMrfxZ",
+    "series": "",
+    "sources": [
+      "https://humanrights.stanford.edu/events/careers-international-law-and-policy"
+    ]
+  },
+  {
+    "id": "humanrights-unearthed-battery-minerals-2026",
+    "title": "Unearthed: Social and Environmental Costs of Mining for Battery Minerals",
+    "date": "2026-02-12",
+    "endDate": null,
+    "startTime": "12:00",
+    "endTime": null,
+    "timezone": "America/Los_Angeles",
+    "location": "Mitchell Earth Sciences, Hartley Conference Room, 397 Panama Mall",
+    "organization": "Human Rights",
+    "host": "Center for Human Rights and International Justice and Precourt Institute for Energy",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Climate & sustainability",
+      "Governance & institutions",
+      "Poverty & livelihoods"
+    ],
+    "audience": "Free campus event; RSVP for lunch",
+    "summary": "Brad Adams discussed community-centered investigations of the human rights costs of battery mineral supply chains.",
+    "description": [
+      "Climate Rights International's Brad Adams discussed the social and environmental costs of mining minerals used in electric vehicles and electricity grids. Community-centered investigations provided a starting point for examining human rights risks in the energy transition.",
+      "The lunchtime discussion considered implications and possible responses. Precourt Institute for Energy and the Center for Human Rights and International Justice co-hosted the event; the Stanford calendar listed it as free, with registration and lunch upon RSVP."
+    ],
+    "sourceUrl": "https://humanrights.stanford.edu/events/unearthed-social-and-environmental-costs-mining-battery-minerals",
+    "poster": "https://humanrights.stanford.edu/sites/humanrights/files/styles/hs_medium_scaled_360px/public/events/localist/the-hidden-social-and-environmental-costs-of-rapid-energy-transition-featuring-brad-adams-climate-rights-international_38511035780218.jpg.webp?itok=ZiAdX-9q",
+    "series": "",
+    "sources": [
+      "https://humanrights.stanford.edu/events/unearthed-social-and-environmental-costs-mining-battery-minerals",
+      "https://events.stanford.edu/event/the-hidden-social-and-environmental-costs-of-rapid-energy-transition-featuring-brad-adams-climate-rights-international"
+    ]
+  },
+  {
+    "id": "datascience-grusky-data-infrastructure-2026",
+    "title": "Building a New Data Infrastructure for the 21st Century",
+    "date": "2026-02-11",
+    "endDate": null,
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "timezone": "America/Los_Angeles",
+    "location": "CoDa W101",
+    "organization": "Data Science",
+    "host": "Stanford Program in Data Science",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Research & policy skills",
+      "Poverty & livelihoods"
+    ],
+    "audience": "Students and the Data Science community; RSVP requested",
+    "summary": "David Grusky considered how to improve the social survey and build tools for monitoring social conditions.",
+    "description": [
+      "The Program in Data Science invited Professor David Grusky to discuss the limitations facing the century-old social survey and possibilities for a better monitoring tool. The talk formed part of the Listen. Engage. Connect. series.",
+      "Grusky directs Stanford's Center on Poverty and Inequality and studies the measurement of poverty, inequality, and mobility. This methods-focused conversation is relevant to students interested in how evidence informs social policy. Lunch was provided and an RSVP was requested."
+    ],
+    "sourceUrl": "https://datasciencemajor.stanford.edu/events/building-new-data-infrastructure-21st-century-dr-david-grusky",
+    "poster": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/styles/hs_medium_square_360x360/public/media/image/lec-david_grusky_1_0.png.webp?h=f2b2591d&itok=bIKhft3c",
+    "series": "Listen. Engage. Connect.",
+    "sources": [
+      "https://datasciencemajor.stanford.edu/events/building-new-data-infrastructure-21st-century-dr-david-grusky",
+      "https://profiles.stanford.edu/david-grusky"
+    ]
+  },
+  {
+    "id": "datascience-lobell-faculty-lunch-2026",
+    "title": "Data Science Faculty Lunch: David Lobell",
+    "date": "2026-04-30",
+    "endDate": null,
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "timezone": "America/Los_Angeles",
+    "location": "Stanford Faculty Club, 439 Lagunita Drive",
+    "organization": "Data Science",
+    "host": "Stanford Program in Data Science, supported by VPUE's Academic-Residential Co-Curriculum program",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Climate & sustainability",
+      "Poverty & livelihoods",
+      "Research & policy skills"
+    ],
+    "audience": "Stanford undergraduate students; limited sign-up, one faculty lunch per student",
+    "summary": "An undergraduate faculty lunch with David Lobell, whose research connects food security, agriculture, and climate.",
+    "description": [
+      "Students joined Earth System Science Professor David Lobell for an informal lunch at the Stanford Faculty Club. The program offered a chance to learn about his research, discuss students' interests, and build a faculty connection outside class.",
+      "Lobell's official research profile focuses on food security, agricultural adaptation to climate change, and the use of large datasets. The lunch belonged to an undergraduate mentoring initiative supported by VPUE. Students were asked to sign up for only one faculty lunch."
+    ],
+    "sourceUrl": "https://datasciencemajor.stanford.edu/events/data-science-faculty-lunch-david-lobell",
+    "poster": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/styles/hs_medium_square_360x360/public/media/image/lobell-faculty_lunches_2026_0.png.webp?h=cd2a7045&itok=ltuci-DS",
+    "series": "Data Science Faculty Lunches",
+    "sources": [
+      "https://datasciencemajor.stanford.edu/events/data-science-faculty-lunch-david-lobell",
+      "https://sustainability.stanford.edu/people/david-lobell/"
+    ]
+  },
+  {
+    "id": "datascience-reardon-faculty-lunch-2026",
+    "title": "Data Science Faculty Lunch: sean reardon",
+    "date": "2026-05-21",
+    "endDate": null,
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "timezone": "America/Los_Angeles",
+    "location": "Stanford Faculty Club, 439 Lagunita Drive",
+    "organization": "Data Science",
+    "host": "Stanford Program in Data Science, supported by VPUE's Academic-Residential Co-Curriculum program",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Poverty & livelihoods",
+      "Gender & inclusion",
+      "Research & policy skills"
+    ],
+    "audience": "Stanford undergraduate students; five student places, sign-up required",
+    "summary": "Five students joined education researcher sean reardon for a small faculty lunch and mentoring conversation.",
+    "description": [
+      "The Program in Data Science offered five students an informal lunch with Professor sean reardon at the Stanford Faculty Club. Students could learn about his work, share their interests, and make a connection outside the classroom.",
+      "Reardon's research examines social and educational inequality, segregation, achievement gaps, and methods for measuring unequal opportunity. The event was part of a VPUE-supported initiative designed to strengthen undergraduates' professional relationships and mentorship with Stanford faculty."
+    ],
+    "sourceUrl": "https://datasciencemajor.stanford.edu/events/data-science-faculty-lunch-sean-reardon",
+    "poster": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/styles/hs_medium_square_360x360/public/media/image/reardon_faculty_lunch_2026_0.png.webp?h=cd2a7045&itok=pskGeCei",
+    "series": "Data Science Faculty Lunches",
+    "sources": [
+      "https://datasciencemajor.stanford.edu/events/data-science-faculty-lunch-sean-reardon",
+      "https://ed.stanford.edu/faculty/seanreardon"
+    ]
+  },
+  {
+    "id": "sccei-highest-exam-gaokao-2025",
+    "title": "The Highest Exam: How the Gaokao Shapes China",
+    "date": "2025-10-21",
+    "endDate": null,
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "timezone": "America/Los_Angeles",
+    "location": "Bechtel Conference Center, Encina Hall, 616 Jane Stanford Way; livestream also available",
+    "organization": "SCCEI",
+    "host": "Stanford Center on China's Economy and Institutions",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Poverty & livelihoods",
+      "Governance & institutions"
+    ],
+    "audience": "Stanford community and public audiences; in-person registration or livestream",
+    "summary": "Ruixue Jia and Hongbin Li discussed how China's entrance exam shapes education, mobility, and society.",
+    "description": [
+      "Authors Ruixue Jia and Hongbin Li discussed their book The Highest Exam in a fireside chat. The conversation examined the gaokao as an institution shaping family decisions, education, socioeconomic opportunity, and China's wider economy.",
+      "The event combined an in-person conversation at Encina Hall with a livestream for remote audiences. In-person participants were invited to a reception and a book signing with Hongbin Li afterward. The discussion connected education policy with inequality and economic development."
+    ],
+    "sourceUrl": "https://sccei.fsi.stanford.edu/events/highest-exam-how-gaokao-shapes-china-fireside-chat-authors-ruixue-jia-and-hongbin-li",
+    "poster": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2025-08/the_highest_exam_cover.jpeg?itok=AHbb6bwZ",
+    "series": "",
+    "sources": [
+      "https://sccei.fsi.stanford.edu/events/highest-exam-how-gaokao-shapes-china-fireside-chat-authors-ruixue-jia-and-hongbin-li"
+    ]
+  },
+  {
+    "id": "sccei-karplus-energy-supply-chains-2026",
+    "title": "Energy Management and Systems Change in Factories and Supply Chains in China",
+    "date": "2026-01-30",
+    "endDate": null,
+    "startTime": "12:00",
+    "endTime": "13:20",
+    "timezone": "America/Los_Angeles",
+    "location": "Goldman Room E409, Encina Hall, 616 Jane Stanford Way",
+    "organization": "SCCEI",
+    "host": "Stanford Center on China's Economy and Institutions",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Climate & sustainability",
+      "Technology & enterprise",
+      "Governance & institutions"
+    ],
+    "audience": "Registered attendees interested in China's economy and sustainability; no degree restriction stated",
+    "summary": "Valerie Karplus examined industrial energy use, management decisions, and sustainability incentives across Chinese supply chains.",
+    "description": [
+      "Valerie Karplus presented a framework for evaluating the economic and environmental effects of industrial production systems. The research considered interventions in iron and steel production, metal components manufacturing, and automotive assembly.",
+      "The seminar connected observations of factory decisions with the incentives shaping sustainability progress across supply chains. SCCEI publicly offered registration to attend and described lunch and calendar reminders. Its listing states no degree or department requirement for attendees."
+    ],
+    "sourceUrl": "https://sccei.fsi.stanford.edu/events/valerie-karplus-energy-management-and-systems-change-factories-and-supply-chains-china",
+    "poster": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2025-11/vkarplus.png?itok=bnvC4XCn",
+    "series": "SCCEI Seminar Series",
+    "sources": [
+      "https://sccei.fsi.stanford.edu/events/valerie-karplus-energy-management-and-systems-change-factories-and-supply-chains-china"
+    ]
+  },
+  {
+    "id": "sccei-chunling-lu-child-development-risks-2026",
+    "title": "Young Children at Risk of Poor Development in Low- and Middle-Income Countries",
+    "date": "2026-03-10",
+    "endDate": null,
+    "startTime": "12:30",
+    "endTime": "14:00",
+    "timezone": "America/Los_Angeles",
+    "location": "Goldman Room E409, Encina Hall, 616 Jane Stanford Way",
+    "organization": "SCCEI",
+    "host": "Stanford Center on Early Childhood and Rural Education Action Program, listed by the Stanford Center on China's Economy and Institutions",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Health & wellbeing",
+      "Poverty & livelihoods",
+      "Research & policy skills"
+    ],
+    "audience": "Registered attendees interested in early childhood development; no degree restriction stated",
+    "summary": "Chunling Lu presented updated measures of childhood exposure to poverty, stunting, and related developmental risks.",
+    "description": [
+      "Harvard global health researcher Chunling Lu discussed updated global, regional, and country estimates of young children's exposure to developmental risks. The research revisited earlier estimates using newer data and poverty definitions.",
+      "The seminar considered trends since 2000 and disparities in risk exposure, with implications for evidence-based early childhood policy. Stanford's Center on Early Childhood and Rural Education Action Program hosted the conversation. Registration was offered publicly and lunch was provided."
+    ],
+    "sourceUrl": "https://sccei.fsi.stanford.edu/events/chunling-lu-global-regional-and-country-level-prevalence-young-children-exposed-risks-poor",
+    "poster": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2026-01/chunling_lu_photo.jpg?itok=MFrFou-5",
+    "series": "",
+    "sources": [
+      "https://sccei.fsi.stanford.edu/events/chunling-lu-global-regional-and-country-level-prevalence-young-children-exposed-risks-poor"
+    ]
+  },
+  {
+    "id": "sccei-hsieh-taiwan-economic-boom-2026",
+    "title": "The Risks of Taiwan's Economic Boom",
+    "date": "2026-05-13",
+    "endDate": null,
+    "startTime": "16:30",
+    "endTime": "18:30",
+    "timezone": "America/Los_Angeles",
+    "location": "Bender Room, Green Library, Bing Wing, fifth floor, 459 Lasuen Mall; online attendance available",
+    "organization": "SCCEI",
+    "host": "Stanford University Libraries and Stanford Center on China's Economy and Institutions",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Governance & institutions",
+      "Poverty & livelihoods",
+      "Technology & enterprise"
+    ],
+    "audience": "In-person or online registrants; no degree restriction stated",
+    "summary": "Chang-Tai Hsieh examined export-led growth, exchange-rate policy, and financial risks in Taiwan's economy.",
+    "description": [
+      "The 2026 Dr. Sam-Chung Hsieh Memorial Lecture featured economist Chang-Tai Hsieh. He examined how Taiwan's exchange-rate policy interacted with export growth and its central position in semiconductor and AI hardware production.",
+      "The lecture considered the financial vulnerabilities accompanying large trade surpluses and foreign asset holdings. Stanford Libraries and SCCEI offered both in-person and online registration. The event provides a comparative perspective on the institutions and tradeoffs involved in economic growth."
+    ],
+    "sourceUrl": "https://sccei.fsi.stanford.edu/events/chang-tai-hsieh-risks-taiwans-economic-boom",
+    "poster": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2026-03/chang-tai_hsieh.jpg?itok=qDgxDFLQ",
+    "series": "Dr. Sam-Chung Hsieh Memorial Lecture",
+    "sources": [
+      "https://sccei.fsi.stanford.edu/events/chang-tai-hsieh-risks-taiwans-economic-boom"
+    ]
+  },
+  {
+    "id": "sccei-guojun-he-esg-experiment-2026",
+    "title": "Corporate ESG Actions: Evidence from a Nationwide Experiment in China",
+    "date": "2026-10-16",
+    "endDate": null,
+    "startTime": "12:00",
+    "endTime": "13:20",
+    "timezone": "America/Los_Angeles",
+    "location": "Goldman Room E409, Encina Hall, 616 Jane Stanford Way",
+    "organization": "SCCEI",
+    "host": "Stanford Center on China's Economy and Institutions",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Climate & sustainability",
+      "Technology & enterprise",
+      "Governance & institutions"
+    ],
+    "audience": "Registration required; no attendee degree restriction stated",
+    "summary": "Guojun He presents experimental evidence on investor demand, corporate ESG reporting, and environmental performance in China.",
+    "description": [
+      "Guojun He will discuss a nationwide field experiment involving more than 4,800 listed firms in China. The study uses public investor questions to examine how environmental, social, and governance concerns change corporate responses and behavior.",
+      "The research connects investor demand with disclosure, environmental performance, and firm valuations. SCCEI lists the talk in its fall seminar series and provides a public Register to Attend link. Students interested in environmental governance and empirical development research can consult the host's registration page."
+    ],
+    "sourceUrl": "https://sccei.fsi.stanford.edu/events/guojun-he-demand-supply-and-market-responses-corporate-esg-actions-evidence-nationwide",
+    "poster": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2026-07/he-guojun-940x1000-ct.jpeg?itok=-Hd3Uz0g",
+    "series": "SCCEI Seminar Series",
+    "sources": [
+      "https://sccei.fsi.stanford.edu/events/guojun-he-demand-supply-and-market-responses-corporate-esg-actions-evidence-nationwide",
+      "https://sccei.fsi.stanford.edu/events"
+    ]
+  },
+  {
+    "id": "sccei-barwick-china-drug-development-2026",
+    "title": "From Free Rider to Innovator: The Rise of China's Drug Development",
+    "date": "2026-10-23",
+    "endDate": null,
+    "startTime": "12:00",
+    "endTime": "13:20",
+    "timezone": "America/Los_Angeles",
+    "location": "Goldman Room E409, Encina Hall, 616 Jane Stanford Way",
+    "organization": "SCCEI",
+    "host": "Stanford Center on China's Economy and Institutions",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Health & wellbeing",
+      "Technology & enterprise",
+      "Governance & institutions"
+    ],
+    "audience": "Registration required; no attendee degree restriction stated",
+    "summary": "Panle Jia Barwick examines how Chinese reimbursement reform shaped pharmaceutical innovation and access to medicines.",
+    "description": [
+      "Panle Jia Barwick will present research on China's expanding role in drug development and clinical trials. The study combines information across the pharmaceutical supply chain to investigate the policy changes behind that transformation.",
+      "The seminar focuses on the National Reimbursement Drug List reform and the relationship between drug affordability, market size, and incentives for innovation. SCCEI publicly offers registration to attend; the event listing does not impose a degree or departmental restriction."
+    ],
+    "sourceUrl": "https://sccei.fsi.stanford.edu/events/panle-jia-barwick-free-rider-innovator-rise-chinas-drug-development",
+    "poster": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2026-07/panle_jia_barwick_.jpeg?itok=ahpmRQHk",
+    "series": "SCCEI Seminar Series",
+    "sources": [
+      "https://sccei.fsi.stanford.edu/events/panle-jia-barwick-free-rider-innovator-rise-chinas-drug-development",
+      "https://sccei.fsi.stanford.edu/events"
+    ]
+  },
+  {
+    "id": "sccei-hanming-fang-industrial-policies-2025",
+    "title": "Decoding China's Industrial Policies",
+    "date": "2025-10-10",
+    "endDate": null,
+    "startTime": "12:00",
+    "endTime": "13:20",
+    "timezone": "America/Los_Angeles",
+    "location": "Goldman Room E409, Encina Hall, 616 Jane Stanford Way",
+    "organization": "SCCEI",
+    "host": "Stanford Center on China's Economy and Institutions",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Governance & institutions",
+      "Technology & enterprise",
+      "Research & policy skills"
+    ],
+    "audience": "Registered seminar attendees; historical registration closed at capacity",
+    "summary": "Hanming Fang examined China's industrial policy using a large database of government documents and firm data.",
+    "description": [
+      "Hanming Fang presented research using language models to analyze industrial-policy documents issued by central, provincial, and municipal governments in China. The project linked policy objectives, instruments, and implementation patterns to firm behavior.",
+      "The seminar considered productivity, political economy, and potential costs such as overcapacity and spatial inefficiency. SCCEI's archive notes that high interest exhausted room capacity and registration closed. It belongs to the fall 2025 seminar archive, rather than an event currently accepting registrations."
+    ],
+    "sourceUrl": "https://sccei.fsi.stanford.edu/events/hanming-fang-decoding-chinas-industrial-policies",
+    "poster": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/hanming_fang.jpeg?itok=fua9mpu_",
+    "series": "SCCEI Seminar Series",
+    "sources": [
+      "https://sccei.fsi.stanford.edu/events/hanming-fang-decoding-chinas-industrial-policies"
+    ]
+  },
+  {
+    "id": "sccei-victor-shih-local-debt-2025",
+    "title": "Hamilton's Nightmare: Financial Repression, Political Control, and Local Debt in China",
+    "date": "2025-10-17",
+    "endDate": null,
+    "startTime": "12:00",
+    "endTime": "13:20",
+    "timezone": "America/Los_Angeles",
+    "location": "Goldman Room E409, Encina Hall, 616 Jane Stanford Way",
+    "organization": "SCCEI",
+    "host": "Stanford Center on China's Economy and Institutions",
+    "kidaRole": "Shared opportunity",
+    "topics": [
+      "Governance & institutions",
+      "Poverty & livelihoods"
+    ],
+    "audience": "Registered seminar attendees; historical registration closed at capacity",
+    "summary": "Victor Shih examined how financial repression and central-local political relations shape China's local-government debt.",
+    "description": [
+      "Victor Shih discussed the incentives behind local-government borrowing in China. The research connected expectations of central bailouts and financial repression with the way local authorities respond to fiscal pressure.",
+      "The analysis considered debt refinancing and additional borrowing after floods and other stresses. The seminar offered a perspective on public finance and institutions that influence development and disaster recovery. SCCEI's archive notes registration closed because of capacity; it is presented here as a past event."
+    ],
+    "sourceUrl": "https://sccei.fsi.stanford.edu/events/victor-shih-hamiltons-nightmare-financial-repression-political-control-and-rapid-rise-local",
+    "poster": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2025-09/victor_shih.jpg?itok=xxzdkeld",
+    "series": "SCCEI Seminar Series",
+    "sources": [
+      "https://sccei.fsi.stanford.edu/events/victor-shih-hamiltons-nightmare-financial-repression-political-control-and-rapid-rise-local"
     ]
   }
 ]

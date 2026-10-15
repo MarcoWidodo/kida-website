@@ -1,0 +1,876 @@
+{
+  "international-engagement-fair-2025": {
+    "id": "international-engagement-fair-2025",
+    "kind": "poster",
+    "path": "/assets/posters/international-engagement-fair.webp",
+    "fit": "contain",
+    "sourcePage": "https://kingcenter.stanford.edu/events/student-event/2025-international-engagement-fair",
+    "sourceImageUrl": null,
+    "alt": "2025 International Engagement Fair — official event poster",
+    "credit": "Provided by KIDA",
+    "rights": "Supplied by KIDA; original files retained."
+  },
+  "research-roadmap-fragile-states-2025": {
+    "id": "research-roadmap-fragile-states-2025",
+    "kind": "photo",
+    "path": "/assets/event-media/research-roadmap-fragile-states-2025.webp",
+    "fit": "cover",
+    "sourcePage": "https://kingcenter.stanford.edu/events/student-event/research-roadmap-fieldwork-fragile-states",
+    "sourceImageUrl": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/media/image/michael_callen_0.png",
+    "pageImageUrl": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/styles/stanford_circle/public/media/image/michael_callen_0.png?itok=RuOvGc5j",
+    "alt": "Michael Callen",
+    "credit": "King Center on Global Development",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1340,
+      1340
+    ]
+  },
+  "global-health-opportunities-fair-2025": {
+    "id": "global-health-opportunities-fair-2025",
+    "kind": "poster",
+    "path": "/assets/posters/global-health-opportunities-fair.webp",
+    "fit": "contain",
+    "sourcePage": "https://globalhealth.stanford.edu/student-event/pis-and-postdocs-invitation-to-present-at-student-opportunities-fair.html/",
+    "sourceImageUrl": null,
+    "alt": "Global Health Opportunities Fair — official event poster",
+    "credit": "Provided by KIDA",
+    "rights": "Supplied by KIDA; original files retained."
+  },
+  "claire-adida-lunch-2025": {
+    "id": "claire-adida-lunch-2025",
+    "kind": "poster",
+    "path": "/assets/posters/claire-adida.webp",
+    "fit": "contain",
+    "sourcePage": "/assets/posters/claire-adida.webp",
+    "sourceImageUrl": null,
+    "alt": "Lunch with Professor Claire Adida — official event poster",
+    "credit": "Provided by KIDA",
+    "rights": "Supplied by KIDA; original files retained."
+  },
+  "food-for-thought-2025": {
+    "id": "food-for-thought-2025",
+    "kind": "poster",
+    "path": "/assets/posters/food-for-thought.webp",
+    "fit": "contain",
+    "sourcePage": "https://kingcenter.stanford.edu/events/student-event/food-thought-tamara-hasan-abed-innovation-through-social-enterprise",
+    "sourceImageUrl": null,
+    "alt": "Innovation Through Social Enterprise — official event poster",
+    "credit": "Provided by KIDA",
+    "rights": "Supplied by KIDA; original files retained."
+  },
+  "reimagining-ai-sustainable-futures-2025": {
+    "id": "reimagining-ai-sustainable-futures-2025",
+    "kind": "poster",
+    "path": "/assets/posters/reimagining-ai.webp",
+    "fit": "contain",
+    "sourcePage": "https://www.stanfordalliance4globalimpact.com/",
+    "sourceImageUrl": null,
+    "alt": "Reimagining AI to Accelerate Sustainable Futures — official event poster",
+    "credit": "Provided by KIDA",
+    "rights": "Supplied by KIDA; original files retained."
+  },
+  "research-roadmap-doing-more-with-less-2026": {
+    "id": "research-roadmap-doing-more-with-less-2026",
+    "organization": "King Center",
+    "kind": "organization-logo",
+    "path": "/assets/organizations/king-center.webp",
+    "fit": "contain",
+    "sourcePage": "https://kingcenter.stanford.edu/events/student-event/research-roadmap-doing-more-less",
+    "sourceImageUrl": "https://images.squarespace-cdn.com/content/v1/52ec3acbe4b0ab0f7c8b980a/1559159053868-K9YCBU30HCY8EVNR0790/SU+King+Ctr+H+Logo+RGB.png",
+    "logoSourcePage": "https://faces.stanford.edu/our-partners",
+    "alt": "King Center official logo",
+    "credit": "Stanford University / King Center",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "global-development-graduate-mixer-2026": {
+    "id": "global-development-graduate-mixer-2026",
+    "organization": "King Center",
+    "kind": "organization-logo",
+    "path": "/assets/organizations/king-center.webp",
+    "fit": "contain",
+    "sourcePage": "https://kingcenter.stanford.edu/events/student-event/global-development-graduate-student-mixer-0",
+    "sourceImageUrl": "https://images.squarespace-cdn.com/content/v1/52ec3acbe4b0ab0f7c8b980a/1559159053868-K9YCBU30HCY8EVNR0790/SU+King+Ctr+H+Logo+RGB.png",
+    "logoSourcePage": "https://faces.stanford.edu/our-partners",
+    "alt": "King Center official logo",
+    "credit": "Stanford University / King Center",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "bridging-gaps-building-futures-2026": {
+    "id": "bridging-gaps-building-futures-2026",
+    "organization": "King Center",
+    "kind": "organization-logo",
+    "path": "/assets/organizations/king-center.webp",
+    "fit": "contain",
+    "sourcePage": "https://kingcenter.stanford.edu/events/lectures-discussions/bridging-gaps-building-futures-dialogue-gender-education-and-work",
+    "sourceImageUrl": "https://images.squarespace-cdn.com/content/v1/52ec3acbe4b0ab0f7c8b980a/1559159053868-K9YCBU30HCY8EVNR0790/SU+King+Ctr+H+Logo+RGB.png",
+    "logoSourcePage": "https://faces.stanford.edu/our-partners",
+    "alt": "King Center official logo",
+    "credit": "Stanford University / King Center",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "research-roadmap-strategic-research-design-2026": {
+    "id": "research-roadmap-strategic-research-design-2026",
+    "organization": "King Center",
+    "kind": "organization-logo",
+    "path": "/assets/organizations/king-center.webp",
+    "fit": "contain",
+    "sourcePage": "https://kingcenter.stanford.edu/events/student-event/research-roadmap-strategic-research-design",
+    "sourceImageUrl": "https://images.squarespace-cdn.com/content/v1/52ec3acbe4b0ab0f7c8b980a/1559159053868-K9YCBU30HCY8EVNR0790/SU+King+Ctr+H+Logo+RGB.png",
+    "logoSourcePage": "https://faces.stanford.edu/our-partners",
+    "alt": "King Center official logo",
+    "credit": "Stanford University / King Center",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "global-development-research-symposium-2026": {
+    "id": "global-development-research-symposium-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/global-development-research-symposium-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://kingcenter.stanford.edu/events/student-event/2026-global-development-research-symposium",
+    "sourceImageUrl": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/styles/stanford_circle/public/media/image/nava_ashraf_0.jpg.png?itok=8GUwphaO",
+    "pageImageUrl": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/styles/stanford_circle/public/media/image/nava_ashraf_0.jpg.png?itok=8GUwphaO",
+    "alt": "Nava Ashraf",
+    "credit": "King Center on Global Development, with support from the Vice Provost for Undergraduate Education and Vice Provost for Graduate Education",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      140,
+      140
+    ]
+  },
+  "international-engagement-fair-2026": {
+    "id": "international-engagement-fair-2026",
+    "organization": "King Center",
+    "kind": "organization-logo",
+    "path": "/assets/organizations/king-center.webp",
+    "fit": "contain",
+    "sourcePage": "https://kingcenter.stanford.edu/events/student-event/2026-international-engagement-fair",
+    "sourceImageUrl": "https://images.squarespace-cdn.com/content/v1/52ec3acbe4b0ab0f7c8b980a/1559159053868-K9YCBU30HCY8EVNR0790/SU+King+Ctr+H+Logo+RGB.png",
+    "logoSourcePage": "https://faces.stanford.edu/our-partners",
+    "alt": "King Center official logo",
+    "credit": "Stanford University / King Center",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "research-roadmap-ai-development-2026": {
+    "id": "research-roadmap-ai-development-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/research-roadmap-ai-development-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://kingcenter.stanford.edu/events/student-event/research-roadmap-ai-and-development",
+    "sourceImageUrl": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/media/image/daniel_bjorkegren_0.png",
+    "pageImageUrl": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/styles/stanford_circle/public/media/image/daniel_bjorkegren_0.png?itok=k-RsmFeN",
+    "alt": "Daniel Björkegren",
+    "credit": "King Center on Global Development",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      530,
+      530
+    ]
+  },
+  "doing-development-differently-brac-2026": {
+    "id": "doing-development-differently-brac-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/doing-development-differently-brac-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://kingcenter.stanford.edu/events/student-event/doing-development-differently-lessons-brac-local-leadership-and-global-scale",
+    "sourceImageUrl": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/styles/stanford_circle/public/media/image/asif_saleh_0.jpg.png?itok=zXh544gw",
+    "pageImageUrl": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/styles/stanford_circle/public/media/image/asif_saleh_0.jpg.png?itok=zXh544gw",
+    "alt": "Asif Saleh",
+    "credit": "King Center on Global Development and BRAC",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      140,
+      140
+    ]
+  },
+  "cddrl-adida-women-participation-2025": {
+    "id": "cddrl-adida-women-participation-2025",
+    "kind": "poster",
+    "path": "/assets/event-media/cddrl-adida-women-participation-2025.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/events/claire-adida-overcoming-barriers-womens-political-participation-evidence-nigeria",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-08/9.25%20Claire%20Adida_0.jpg",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2025-08/9.25%20Claire%20Adida_0.jpg?itok=b82cQ6it",
+    "alt": "Overcoming Barriers to Women’s Political Participation: Evidence from Nigeria — official event poster",
+    "credit": "Center on Democracy, Development and the Rule of Law (CDDRL)",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "cddrl-nagawa-foreign-aid-2025": {
+    "id": "cddrl-nagawa-foreign-aid-2025",
+    "kind": "poster",
+    "path": "/assets/event-media/cddrl-nagawa-foreign-aid-2025.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/events/maria-nagawa-foreign-aid-and-performance-bureaucrats",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-08/10.2%20Maria%20Nagawa.jpg",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2025-08/10.2%20Maria%20Nagawa.jpg?itok=vm915tzu",
+    "alt": "Foreign Aid and the Performance of Bureaucrats — official event poster",
+    "credit": "Center on Democracy, Development and the Rule of Law (CDDRL)",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "cddrl-jha-climate-action-2025": {
+    "id": "cddrl-jha-climate-action-2025",
+    "kind": "poster",
+    "path": "/assets/event-media/cddrl-jha-climate-action-2025.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/events/saumitra-jha-seeing-green-effects-financial-exposures-support-climate-action",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-08/10.9%20Saumitra%20Jha.jpg",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2025-08/10.9%20Saumitra%20Jha.jpg?itok=dMh3Tf6P",
+    "alt": "Seeing Green: The Effects of Financial Exposures on Support for Climate Action — official event poster",
+    "credit": "Center on Democracy, Development and the Rule of Law (CDDRL)",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "cddrl-young-electoral-repression-2025": {
+    "id": "cddrl-young-electoral-repression-2025",
+    "kind": "poster",
+    "path": "/assets/event-media/cddrl-young-electoral-repression-2025.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/events/lauren-young-let-them-be-warned-not-play-fire-understanding-electoral-repression-zimbabwe",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-09/10.16_lauren_young.jpg",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2025-09/10.16_lauren_young.jpg?itok=NY1qLbD4",
+    "alt": "Let Them Be Warned Not to Play With Fire: Understanding Electoral Repression in Zimbabwe — official event poster",
+    "credit": "Center on Democracy, Development and the Rule of Law (CDDRL)",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "sgs-global-debt-dialogue-2025": {
+    "id": "sgs-global-debt-dialogue-2025",
+    "kind": "poster",
+    "path": "/assets/event-media/sgs-global-debt-dialogue-2025.webp",
+    "fit": "contain",
+    "sourcePage": "https://internationalrelations.stanford.edu/events/sgs-global-dialogues-series-global-debt-and-its-discontents",
+    "sourceImageUrl": "https://internationalrelations.stanford.edu/sites/internationalrelations/files/styles/metatags_image_1200x628/public/events/localist/sgs-global-dialogues-series-global-debt-and-its-discontents_50825907417174.jpg.webp?h=07089ada&itok=Ek8jxfe_",
+    "pageImageUrl": "https://internationalrelations.stanford.edu/sites/internationalrelations/files/styles/metatags_image_1200x628/public/events/localist/sgs-global-dialogues-series-global-debt-and-its-discontents_50825907417174.jpg.webp?h=07089ada&itok=Ek8jxfe_",
+    "alt": "Global Debt and its Discontents — official event poster",
+    "credit": "Stanford Global Studies Division",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      628
+    ]
+  },
+  "cddrl-fafchamps-keynote-2025": {
+    "id": "cddrl-fafchamps-keynote-2025",
+    "kind": "poster",
+    "path": "/assets/event-media/cddrl-fafchamps-keynote-2025.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/events/unfinished-business-tribute-marcel-fafchamps",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-07/16x9.png",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2025-07/16x9.png?itok=7M9p6SSS",
+    "alt": "Unfinished Business: Marcel Fafchamps’ Livestreamed Keynote — official event poster",
+    "credit": "Center on Democracy, Development and the Rule of Law (CDDRL) and King Center on Global Development",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "cddrl-khagram-gripp-2025": {
+    "id": "cddrl-khagram-gripp-2025",
+    "kind": "poster",
+    "path": "/assets/event-media/cddrl-khagram-gripp-2025.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/events/sanjeev-khagram-innovating-ai-powered-global-resilience-intelligence-platform-and",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-12/SanjeevSeminar.jpg",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2025-12/SanjeevSeminar.jpg?itok=C_w_UEcC",
+    "alt": "Innovating GRIPP for Governance, Human Security, and Sustainable Development — official event poster",
+    "credit": "Center on Democracy, Development and the Rule of Law (CDDRL)",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "aparc-women-global-talent-2026": {
+    "id": "aparc-women-global-talent-2026",
+    "kind": "poster",
+    "path": "/assets/event-media/aparc-women-global-talent-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://aparc.fsi.stanford.edu/events/why-women-leave-gendered-pathways-global-talent",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2026-01/kp_an_2026jan15.png",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2026-01/kp_an_2026jan15.png?itok=Gk1NVPVj",
+    "alt": "Why Women Leave: Gendered Pathways of Global Talent — official event poster",
+    "credit": "Walter H. Shorenstein Asia-Pacific Research Center (APARC) · Korea Program and Stanford Next Asia Policy Lab",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "aparc-environmental-ethics-southeast-asia-2026": {
+    "id": "aparc-environmental-ethics-southeast-asia-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/aparc-environmental-ethics-southeast-asia-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://events.stanford.edu/event/islamic-environmental-ethics-and-multispecies-responsibility-in-southeast-asia-2797",
+    "sourceImageUrl": "https://localist-images.azureedge.net/photos/52075317425296/huge/9c2e7b7a85f10fa5af86c5ef67c681797e24efb5.jpg",
+    "pageImageUrl": "https://localist-images.azureedge.net/photos/52075317425296/huge/9c2e7b7a85f10fa5af86c5ef67c681797e24efb5.jpg",
+    "alt": "Islamic Environmental Ethics and Multispecies Responsibility in Southeast Asia — official event image",
+    "credit": "Walter H. Shorenstein Asia-Pacific Research Center (APARC) and Sohaib and Sara Abbasi Program in Islamic Studies",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      619,
+      619
+    ]
+  },
+  "cddrl-nagawa-foreign-aid-april-2026": {
+    "id": "cddrl-nagawa-foreign-aid-april-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/cddrl-nagawa-foreign-aid-april-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://internationalrelations.stanford.edu/events/foreign-aid-and-performance-bureaucrats-maria-nagawa",
+    "sourceImageUrl": "https://internationalrelations.stanford.edu/sites/internationalrelations/files/styles/metatags_image_1200x628/public/events/localist/foreign-aid-and-the-performance-of-bureaucrats-maria-nagawa_52188697055488.jpg.webp?h=1ba6a2ca&itok=kvry7v2B",
+    "pageImageUrl": "https://internationalrelations.stanford.edu/sites/internationalrelations/files/styles/metatags_image_1200x628/public/events/localist/foreign-aid-and-the-performance-of-bureaucrats-maria-nagawa_52188697055488.jpg.webp?h=1ba6a2ca&itok=kvry7v2B",
+    "alt": "Foreign Aid and the Performance of Bureaucrats — official event image",
+    "credit": "Center for African Studies and Center on Democracy, Development and the Rule of Law (CDDRL)",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      628
+    ]
+  },
+  "aparc-philippines-health-migration-2026": {
+    "id": "aparc-philippines-health-migration-2026",
+    "kind": "poster",
+    "path": "/assets/event-media/aparc-philippines-health-migration-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://aparc.fsi.stanford.edu/events/drivers-and-consequences-international-mobility-healthcare-professionals-philippines",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2026-03/ahpp_pajaron_2026apr8.jpg",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2026-03/ahpp_pajaron_2026apr8.jpg?itok=FCfpqD6q",
+    "alt": "The Drivers and Consequences of the International Mobility of Healthcare Professionals from the Philippines — official event poster",
+    "credit": "Walter H. Shorenstein Asia-Pacific Research Center (APARC) · Asia Health Policy Program",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "cddrl-el-salvador-carceral-state-2026": {
+    "id": "cddrl-el-salvador-carceral-state-2026",
+    "kind": "poster",
+    "path": "/assets/event-media/cddrl-el-salvador-carceral-state-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/events/film-screening-discussion-el-salvador-carceral-state-terror",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2026-04/4.17.26%20DAL%20Event%20%283%29.png",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2026-04/4.17.26%20DAL%20Event%20%283%29.png?itok=umxDCUxa",
+    "alt": "El Salvador: A Carceral State of Terror — Screening and Discussion — official event poster",
+    "credit": "Democracy Action Lab and Poverty, Violence, and Governance Lab, Center on Democracy, Development and the Rule of Law (CDDRL)",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "ir-climate-food-security-afghanistan-2026": {
+    "id": "ir-climate-food-security-afghanistan-2026",
+    "kind": "poster",
+    "path": "/assets/event-media/ir-climate-food-security-afghanistan-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://internationalrelations.stanford.edu/events/climate-shocks-household-food-security-welfare-afghanistan-hayatullah-ahmadzai",
+    "sourceImageUrl": "https://islamicstudies.stanford.edu/sites/islamicstudies/files/media/image/hayatullahahmadzai_afghanistan_finalflier.png",
+    "pageImageUrl": "https://islamicstudies.stanford.edu/sites/islamicstudies/files/media/image/hayatullahahmadzai_afghanistan_finalflier.png",
+    "alt": "Climate Shocks, Household Food Security, and Welfare in Afghanistan — official event poster",
+    "credit": "Abbasi Program in Islamic Studies, Center for South Asia, and Center on Food Security and the Environment",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      1440
+    ]
+  },
+  "aparc-korea-long-term-care-policy-2026": {
+    "id": "aparc-korea-long-term-care-policy-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/aparc-korea-long-term-care-policy-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://events.stanford.edu/event/ltci-policy-changes-and-healthcare-utilization-in-south-korea",
+    "sourceImageUrl": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
+    "pageImageUrl": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
+    "alt": "Long-Term Care Insurance Policy Changes and Healthcare Utilization in South Korea — official event image",
+    "credit": "Walter H. Shorenstein Asia-Pacific Research Center (APARC) · Asia Health Policy Program",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      600,
+      600
+    ]
+  },
+  "cddrl-dann-infrastructure-2026": {
+    "id": "cddrl-dann-infrastructure-2026",
+    "kind": "poster",
+    "path": "/assets/event-media/cddrl-dann-infrastructure-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/events/chris-dann-building-dictatorships-legitimacy-large-scale-infrastructure",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2026-08/CDDRL%202026%20Fall%20Research%20Seminar%20%286%29.png",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2026-08/CDDRL%202026%20Fall%20Research%20Seminar%20%286%29.png?itok=CGZaLzFL",
+    "alt": "Building Dictatorships: Legitimacy and Large-Scale Infrastructure — official event poster",
+    "credit": "Center on Democracy, Development and the Rule of Law (CDDRL)",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "aparc-directional-ai-healthcare-2026": {
+    "id": "aparc-directional-ai-healthcare-2026",
+    "kind": "poster",
+    "path": "/assets/event-media/aparc-directional-ai-healthcare-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://aparc.fsi.stanford.edu/events/directional-ai-advice-experimental-evidence-healthcare",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2026-09/ahpp_meng_20261022.jpg",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2026-09/ahpp_meng_20261022.jpg?itok=K0c2DCfB",
+    "alt": "Directional AI Advice: Experimental Evidence from Healthcare — official event poster",
+    "credit": "Walter H. Shorenstein Asia-Pacific Research Center (APARC) · Asia Health Policy Program",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "cddrl-ibanez-authoritarian-aid-2026": {
+    "id": "cddrl-ibanez-authoritarian-aid-2026",
+    "kind": "poster",
+    "path": "/assets/event-media/cddrl-ibanez-authoritarian-aid-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/events/marcela-ibanez-authoritarian-aid-and-democratic-attitudes-backlash-not-diffusion",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2026-09/cddrl_2026_fall_research_seminar_2.png",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2026-09/cddrl_2026_fall_research_seminar_2.png?itok=6Z0hvp8P",
+    "alt": "Authoritarian Aid and Democratic Attitudes: Backlash, Not Diffusion — official event poster",
+    "credit": "Center on Democracy, Development and the Rule of Law (CDDRL)",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "aparc-long-term-care-fraud-2026": {
+    "id": "aparc-long-term-care-fraud-2026",
+    "kind": "poster",
+    "path": "/assets/event-media/aparc-long-term-care-fraud-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://aparc.fsi.stanford.edu/events/cross-national-comparison-long-term-care-fraud-oversight-and-investigation-practices",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2026-09/meander.jpg",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2026-09/meander.jpg?itok=4E83Yad1",
+    "alt": "Cross-National Comparison of Long-Term Care Fraud Oversight and Investigation Practices — official event poster",
+    "credit": "Walter H. Shorenstein Asia-Pacific Research Center (APARC) · Asia Health Policy Program",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "cddrl-humanitarian-aid-2026": {
+    "id": "cddrl-humanitarian-aid-2026",
+    "kind": "poster",
+    "path": "/assets/event-media/cddrl-humanitarian-aid-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/events/delivering-humanitarian-aid-contested-world",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2026-10/1.png",
+    "pageImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/680x378/public/2026-10/1.png?itok=EfqxCXm8",
+    "alt": "Delivering Humanitarian Aid in a Contested World — official event poster",
+    "credit": "Center on Democracy, Development and the Rule of Law (CDDRL) with IsraAID and partners",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1440,
+      810
+    ]
+  },
+  "gsb-environmental-entrepreneurship-2026": {
+    "id": "gsb-environmental-entrepreneurship-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/gsb-environmental-entrepreneurship-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://www.gsb.stanford.edu/events/stanford-conference-environmental-entrepreneurship",
+    "sourceImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-03/photo-featured-event-environmental-entrepreneurship-sustainability-conference-2026.jpg.jpeg?itok=ZRiutp-B",
+    "pageImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-03/photo-featured-event-environmental-entrepreneurship-sustainability-conference-2026.jpg.jpeg?itok=ZRiutp-B",
+    "alt": "Stanford Conference on Environmental Entrepreneurship — official event image",
+    "credit": "Stanford Graduate School of Business",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      702
+    ]
+  },
+  "gsb-indigenous-stewardship-2026": {
+    "id": "gsb-indigenous-stewardship-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/gsb-indigenous-stewardship-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://www.gsb.stanford.edu/events/indigenous-stewardship-sustainability",
+    "sourceImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-02/indigenous-event.jpg.jpeg?itok=aHu4xM_T",
+    "pageImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-02/indigenous-event.jpg.jpeg?itok=aHu4xM_T",
+    "alt": "Indigenous Stewardship for Sustainability — official event image",
+    "credit": "Stanford Graduate School of Business",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      890,
+      521
+    ]
+  },
+  "gsb-sustainable-responsible-operations-ai-2026": {
+    "id": "gsb-sustainable-responsible-operations-ai-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/gsb-sustainable-responsible-operations-ai-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://www.gsb.stanford.edu/events/sustainable-responsible-operations-age-ai",
+    "sourceImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-01/stanford_day2-019_0.jpg.jpeg?itok=HXQoALiM",
+    "pageImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-01/stanford_day2-019_0.jpg.jpeg?itok=HXQoALiM",
+    "alt": "Sustainable and Responsible Operations in the Age of AI — official event image",
+    "credit": "Stanford Graduate School of Business",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      969
+    ]
+  },
+  "gsb-civil-society-sustainability-2026": {
+    "id": "gsb-civil-society-sustainability-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/gsb-civil-society-sustainability-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://www.gsb.stanford.edu/events/civil-society-sustainability-2026",
+    "sourceImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-03/hero-capital-civil-society-event.jpg.jpeg?itok=gPrA1sdN",
+    "pageImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-03/hero-capital-civil-society-event.jpg.jpeg?itok=gPrA1sdN",
+    "alt": "Civil Society and Sustainability Conference — official event image",
+    "credit": "Stanford Graduate School of Business · Center on Philanthropy and Civil Society",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      675
+    ]
+  },
+  "law-policy-lab-ai-research-2026": {
+    "id": "law-policy-lab-ai-research-2026",
+    "organization": "Stanford Law",
+    "kind": "organization-logo",
+    "path": "/assets/organizations/stanford-law.webp",
+    "fit": "contain",
+    "sourcePage": "https://law.stanford.edu/event/policy-lab-workshop-using-ai-in-law-and-policy-research/",
+    "sourceImageUrl": "https://law.stanford.edu/wp-content/themes/stanford-law-school/img/print/header-logo.png",
+    "logoSourcePage": "https://law.stanford.edu/",
+    "alt": "Stanford Law official logo",
+    "credit": "Stanford University / Stanford Law",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "law-policy-lab-systems-thinking-2026": {
+    "id": "law-policy-lab-systems-thinking-2026",
+    "organization": "Stanford Law",
+    "kind": "organization-logo",
+    "path": "/assets/organizations/stanford-law.webp",
+    "fit": "contain",
+    "sourcePage": "https://law.stanford.edu/event/policy-lab-workshop-introduction-to-systems-thinking/",
+    "sourceImageUrl": "https://law.stanford.edu/wp-content/themes/stanford-law-school/img/print/header-logo.png",
+    "logoSourcePage": "https://law.stanford.edu/",
+    "alt": "Stanford Law official logo",
+    "credit": "Stanford University / Stanford Law",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "law-policy-lab-policy-reports-2026": {
+    "id": "law-policy-lab-policy-reports-2026",
+    "organization": "Stanford Law",
+    "kind": "organization-logo",
+    "path": "/assets/organizations/stanford-law.webp",
+    "fit": "contain",
+    "sourcePage": "https://law.stanford.edu/event/policy-lab-workshop-workshop-writing-policy-reports-and-using-ai-for-drafting/",
+    "sourceImageUrl": "https://law.stanford.edu/wp-content/themes/stanford-law-school/img/print/header-logo.png",
+    "logoSourcePage": "https://law.stanford.edu/",
+    "alt": "Stanford Law official logo",
+    "credit": "Stanford University / Stanford Law",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "law-policy-lab-oral-briefings-2026": {
+    "id": "law-policy-lab-oral-briefings-2026",
+    "organization": "Stanford Law",
+    "kind": "organization-logo",
+    "path": "/assets/organizations/stanford-law.webp",
+    "fit": "contain",
+    "sourcePage": "https://law.stanford.edu/event/policy-lab-workshop-oral-briefings-for-public-policy/",
+    "sourceImageUrl": "https://law.stanford.edu/wp-content/themes/stanford-law-school/img/print/header-logo.png",
+    "logoSourcePage": "https://law.stanford.edu/",
+    "alt": "Stanford Law official logo",
+    "credit": "Stanford University / Stanford Law",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "law-policy-lab-opeds-2026": {
+    "id": "law-policy-lab-opeds-2026",
+    "organization": "Stanford Law",
+    "kind": "organization-logo",
+    "path": "/assets/organizations/stanford-law.webp",
+    "fit": "contain",
+    "sourcePage": "https://law.stanford.edu/event/policy-lab-workshop-writing-op-eds-blogs-opinion-pieces/",
+    "sourceImageUrl": "https://law.stanford.edu/wp-content/themes/stanford-law-school/img/print/header-logo.png",
+    "logoSourcePage": "https://law.stanford.edu/",
+    "alt": "Stanford Law official logo",
+    "credit": "Stanford University / Stanford Law",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "gsb-political-economics-sustainability-2026": {
+    "id": "gsb-political-economics-sustainability-2026",
+    "kind": "photo",
+    "path": "/assets/event-media/gsb-political-economics-sustainability-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://www.gsb.stanford.edu/events/political-economics-sustainability",
+    "sourceImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-06/featured-political-economy-environmental-sustainability.jpg.jpeg?itok=D3aRk-c6",
+    "pageImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-06/featured-political-economy-environmental-sustainability.jpg.jpeg?itok=D3aRk-c6",
+    "alt": "The Political Economics of Sustainability — official event image",
+    "credit": "Stanford Graduate School of Business",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      703
+    ]
+  },
+  "gsb-marketing-sustainability-2027": {
+    "id": "gsb-marketing-sustainability-2027",
+    "kind": "photo",
+    "path": "/assets/event-media/gsb-marketing-sustainability-2027.webp",
+    "fit": "cover",
+    "sourcePage": "https://www.gsb.stanford.edu/events/marketing-sustainability",
+    "sourceImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-09/marketing-for-sustainability.jpg.jpeg?itok=UHluZj6y",
+    "pageImageUrl": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-09/marketing-for-sustainability.jpg.jpeg?itok=UHluZj6y",
+    "alt": "Marketing for Sustainability — official event image",
+    "credit": "Stanford Graduate School of Business",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      703
+    ]
+  },
+  "humanrights-uyghur-technology-forced-labor-2025": {
+    "id": "humanrights-uyghur-technology-forced-labor-2025",
+    "organization": "Human Rights",
+    "kind": "poster",
+    "path": "/assets/event-media/humanrights-uyghur-technology-forced-labor-2025.webp",
+    "fit": "contain",
+    "sourcePage": "https://humanrights.stanford.edu/events/technology-forced-labor-and-uyghur-genocide-rushan-abbas",
+    "sourceImageUrl": "https://islamicstudies.stanford.edu/sites/islamicstudies/files/media/image/1202rushanabbas_uyghurgenocide_0.png",
+    "alt": "Technology, Forced Labor, and the Uyghur Genocide — official event image",
+    "credit": "Abbasi Program in Islamic Studies, Center for Human Rights and International Justice, Center for East Asian Studies, and Hoover Institution",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1000,
+      1000
+    ]
+  },
+  "humanrights-international-law-policy-careers-2026": {
+    "id": "humanrights-international-law-policy-careers-2026",
+    "organization": "Human Rights",
+    "kind": "photo",
+    "path": "/assets/event-media/humanrights-international-law-policy-careers-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://humanrights.stanford.edu/events/careers-international-law-and-policy",
+    "sourceImageUrl": "https://humanrights.stanford.edu/sites/humanrights/files/styles/hs_medium_scaled_360px/public/events/localist/careers-in-international-law-and-policy_.jpg.webp?itok=vOpMrfxZ",
+    "alt": "Careers in International Law and Policy — official event image",
+    "credit": "Center for Human Rights and International Justice",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      360,
+      240
+    ]
+  },
+  "humanrights-unearthed-battery-minerals-2026": {
+    "id": "humanrights-unearthed-battery-minerals-2026",
+    "organization": "Human Rights",
+    "kind": "photo",
+    "path": "/assets/event-media/humanrights-unearthed-battery-minerals-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://humanrights.stanford.edu/events/unearthed-social-and-environmental-costs-mining-battery-minerals",
+    "sourceImageUrl": "https://humanrights.stanford.edu/sites/humanrights/files/styles/hs_medium_scaled_360px/public/events/localist/the-hidden-social-and-environmental-costs-of-rapid-energy-transition-featuring-brad-adams-climate-rights-international_38511035780218.jpg.webp?itok=ZiAdX-9q",
+    "alt": "Unearthed: Social and Environmental Costs of Mining for Battery Minerals — official event image",
+    "credit": "Center for Human Rights and International Justice and Precourt Institute for Energy",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      360,
+      360
+    ]
+  },
+  "datascience-grusky-data-infrastructure-2026": {
+    "id": "datascience-grusky-data-infrastructure-2026",
+    "organization": "Data Science",
+    "kind": "poster",
+    "path": "/assets/event-media/datascience-grusky-data-infrastructure-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://datasciencemajor.stanford.edu/events/building-new-data-infrastructure-21st-century-dr-david-grusky",
+    "sourceImageUrl": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/media/image/lec-david_grusky_1_0.png",
+    "alt": "Building a New Data Infrastructure for the 21st Century — official event image",
+    "credit": "Stanford Program in Data Science",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1113,
+      1440
+    ],
+    "pageImageUrl": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/styles/hs_medium_square_360x360/public/media/image/lec-david_grusky_1_0.png.webp?h=f2b2591d&itok=bIKhft3c"
+  },
+  "datascience-lobell-faculty-lunch-2026": {
+    "id": "datascience-lobell-faculty-lunch-2026",
+    "organization": "Data Science",
+    "kind": "poster",
+    "path": "/assets/event-media/datascience-lobell-faculty-lunch-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://datasciencemajor.stanford.edu/events/data-science-faculty-lunch-david-lobell",
+    "sourceImageUrl": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/styles/hs_medium_square_360x360/public/media/image/lobell-faculty_lunches_2026_0.png.webp?h=cd2a7045&itok=ltuci-DS",
+    "alt": "Data Science Faculty Lunch: David Lobell — official event image",
+    "credit": "Stanford Program in Data Science, supported by VPUE's Academic-Residential Co-Curriculum program",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      360,
+      360
+    ]
+  },
+  "datascience-reardon-faculty-lunch-2026": {
+    "id": "datascience-reardon-faculty-lunch-2026",
+    "organization": "Data Science",
+    "kind": "poster",
+    "path": "/assets/event-media/datascience-reardon-faculty-lunch-2026.webp",
+    "fit": "contain",
+    "sourcePage": "https://datasciencemajor.stanford.edu/events/data-science-faculty-lunch-sean-reardon",
+    "sourceImageUrl": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/styles/hs_medium_square_360x360/public/media/image/reardon_faculty_lunch_2026_0.png.webp?h=cd2a7045&itok=pskGeCei",
+    "alt": "Data Science Faculty Lunch: sean reardon — official event image",
+    "credit": "Stanford Program in Data Science, supported by VPUE's Academic-Residential Co-Curriculum program",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      360,
+      360
+    ]
+  },
+  "sccei-highest-exam-gaokao-2025": {
+    "id": "sccei-highest-exam-gaokao-2025",
+    "organization": "SCCEI",
+    "kind": "photo",
+    "path": "/assets/event-media/sccei-highest-exam-gaokao-2025.webp",
+    "fit": "cover",
+    "sourcePage": "https://sccei.fsi.stanford.edu/events/highest-exam-how-gaokao-shapes-china-fireside-chat-authors-ruixue-jia-and-hongbin-li",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2025-08/the_highest_exam_cover.jpeg?itok=AHbb6bwZ",
+    "alt": "The Highest Exam: How the Gaokao Shapes China — official event image",
+    "credit": "Stanford Center on China's Economy and Institutions",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      250,
+      378
+    ]
+  },
+  "sccei-karplus-energy-supply-chains-2026": {
+    "id": "sccei-karplus-energy-supply-chains-2026",
+    "organization": "SCCEI",
+    "kind": "photo",
+    "path": "/assets/event-media/sccei-karplus-energy-supply-chains-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://sccei.fsi.stanford.edu/events/valerie-karplus-energy-management-and-systems-change-factories-and-supply-chains-china",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2025-11/vkarplus.png?itok=bnvC4XCn",
+    "alt": "Energy Management and Systems Change in Factories and Supply Chains in China — official event image",
+    "credit": "Stanford Center on China's Economy and Institutions",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      250,
+      312
+    ]
+  },
+  "sccei-chunling-lu-child-development-risks-2026": {
+    "id": "sccei-chunling-lu-child-development-risks-2026",
+    "organization": "SCCEI",
+    "kind": "photo",
+    "path": "/assets/event-media/sccei-chunling-lu-child-development-risks-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://sccei.fsi.stanford.edu/events/chunling-lu-global-regional-and-country-level-prevalence-young-children-exposed-risks-poor",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2026-01/chunling_lu_photo.jpg?itok=MFrFou-5",
+    "alt": "Young Children at Risk of Poor Development in Low- and Middle-Income Countries — official event image",
+    "credit": "Stanford Center on Early Childhood and Rural Education Action Program, listed by the Stanford Center on China's Economy and Institutions",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      250,
+      270
+    ]
+  },
+  "sccei-hsieh-taiwan-economic-boom-2026": {
+    "id": "sccei-hsieh-taiwan-economic-boom-2026",
+    "organization": "SCCEI",
+    "kind": "photo",
+    "path": "/assets/event-media/sccei-hsieh-taiwan-economic-boom-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://sccei.fsi.stanford.edu/events/chang-tai-hsieh-risks-taiwans-economic-boom",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2026-03/chang-tai_hsieh.jpg?itok=qDgxDFLQ",
+    "alt": "The Risks of Taiwan's Economic Boom — official event image",
+    "credit": "Stanford University Libraries and Stanford Center on China's Economy and Institutions",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      250,
+      250
+    ]
+  },
+  "sccei-guojun-he-esg-experiment-2026": {
+    "id": "sccei-guojun-he-esg-experiment-2026",
+    "organization": "SCCEI",
+    "kind": "photo",
+    "path": "/assets/event-media/sccei-guojun-he-esg-experiment-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://sccei.fsi.stanford.edu/events/guojun-he-demand-supply-and-market-responses-corporate-esg-actions-evidence-nationwide",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2026-07/he-guojun-940x1000-ct.jpeg?itok=-Hd3Uz0g",
+    "alt": "Corporate ESG Actions: Evidence from a Nationwide Experiment in China — official event image",
+    "credit": "Stanford Center on China's Economy and Institutions",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      250,
+      317
+    ]
+  },
+  "sccei-barwick-china-drug-development-2026": {
+    "id": "sccei-barwick-china-drug-development-2026",
+    "organization": "SCCEI",
+    "kind": "photo",
+    "path": "/assets/event-media/sccei-barwick-china-drug-development-2026.webp",
+    "fit": "cover",
+    "sourcePage": "https://sccei.fsi.stanford.edu/events/panle-jia-barwick-free-rider-innovator-rise-chinas-drug-development",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2026-07/panle_jia_barwick_.jpeg?itok=ahpmRQHk",
+    "alt": "From Free Rider to Innovator: The Rise of China's Drug Development — official event image",
+    "credit": "Stanford Center on China's Economy and Institutions",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      250,
+      340
+    ]
+  },
+  "sccei-hanming-fang-industrial-policies-2025": {
+    "id": "sccei-hanming-fang-industrial-policies-2025",
+    "organization": "SCCEI",
+    "kind": "photo",
+    "path": "/assets/event-media/sccei-hanming-fang-industrial-policies-2025.webp",
+    "fit": "cover",
+    "sourcePage": "https://sccei.fsi.stanford.edu/events/hanming-fang-decoding-chinas-industrial-policies",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/hanming_fang.jpeg?itok=fua9mpu_",
+    "alt": "Decoding China's Industrial Policies — official event image",
+    "credit": "Stanford Center on China's Economy and Institutions",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      250,
+      267
+    ]
+  },
+  "sccei-victor-shih-local-debt-2025": {
+    "id": "sccei-victor-shih-local-debt-2025",
+    "organization": "SCCEI",
+    "kind": "photo",
+    "path": "/assets/event-media/sccei-victor-shih-local-debt-2025.webp",
+    "fit": "cover",
+    "sourcePage": "https://sccei.fsi.stanford.edu/events/victor-shih-hamiltons-nightmare-financial-repression-political-control-and-rapid-rise-local",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/styles/250xauto/public/2025-09/victor_shih.jpg?itok=xxzdkeld",
+    "alt": "Hamilton's Nightmare: Financial Repression, Political Control, and Local Debt in China — official event image",
+    "credit": "Stanford Center on China's Economy and Institutions",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      250,
+      339
+    ]
+  }
+}

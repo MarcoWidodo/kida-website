@@ -5,6 +5,9 @@
   "rewrites": [
     {"source": "/about", "destination": "/index.html"},
     {"source": "/contact", "destination": "/index.html"},
+    {"source": "/tools", "destination": "/index.html"},
+    {"source": "/opportunities", "destination": "/index.html"},
+    {"source": "/opportunities/:slug", "destination": "/index.html"},
     {"source": "/events", "destination": "/index.html"},
     {"source": "/events/:slug", "destination": "/index.html"}
   ],
