@@ -703,14 +703,15 @@
     "path": "/assets/event-media/datascience-grusky-data-infrastructure-2026.webp",
     "fit": "contain",
     "sourcePage": "https://datasciencemajor.stanford.edu/events/building-new-data-infrastructure-21st-century-dr-david-grusky",
-    "sourceImageUrl": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/styles/hs_medium_square_360x360/public/media/image/lec-david_grusky_1_0.png.webp?h=f2b2591d&itok=bIKhft3c",
+    "sourceImageUrl": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/media/image/lec-david_grusky_1_0.png",
     "alt": "Building a New Data Infrastructure for the 21st Century — official event image",
     "credit": "Stanford Program in Data Science",
     "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
     "dimensions": [
-      360,
-      360
-    ]
+      1113,
+      1440
+    ],
+    "pageImageUrl": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/styles/hs_medium_square_360x360/public/media/image/lec-david_grusky_1_0.png.webp?h=f2b2591d&itok=bIKhft3c"
   },
   "datascience-lobell-faculty-lunch-2026": {
     "id": "datascience-lobell-faculty-lunch-2026",
