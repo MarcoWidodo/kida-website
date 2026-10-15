@@ -1,0 +1,187 @@
+{
+  "King Center": {
+    "organization": "King Center",
+    "kind": "logo",
+    "path": "/assets/organizations/king-center.webp",
+    "fit": "contain",
+    "sourcePage": "https://faces.stanford.edu/our-partners",
+    "sourceImageUrl": "https://images.squarespace-cdn.com/content/v1/52ec3acbe4b0ab0f7c8b980a/1559159053868-K9YCBU30HCY8EVNR0790/SU+King+Ctr+H+Logo+RGB.png",
+    "alt": "King Center official logo",
+    "credit": "Stanford University / King Center",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1568,
+      197
+    ]
+  },
+  "CDDRL": {
+    "organization": "CDDRL",
+    "kind": "logo",
+    "path": "/assets/organizations/cddrl.webp",
+    "fit": "contain",
+    "sourcePage": "https://cddrl.fsi.stanford.edu/",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2022-10/cddrl-logo_updated.png",
+    "alt": "CDDRL official logo",
+    "credit": "Stanford University / CDDRL",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      954,
+      139
+    ]
+  },
+  "APARC": {
+    "organization": "APARC",
+    "kind": "logo",
+    "path": "/assets/organizations/aparc.webp",
+    "fit": "contain",
+    "sourcePage": "https://aparc.fsi.stanford.edu/",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2022-09/aparc_center_logo_color_resized.png",
+    "alt": "APARC official logo",
+    "credit": "Stanford University / APARC",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      863,
+      133
+    ]
+  },
+  "GSB": {
+    "organization": "GSB",
+    "kind": "logo",
+    "path": "/assets/organizations/gsb.svg",
+    "fit": "contain",
+    "sourcePage": "https://www.gsb.stanford.edu/",
+    "sourceImageUrl": "https://www.gsb.stanford.edu/themes/custom/gsb/logo.svg",
+    "alt": "GSB official logo",
+    "credit": "Stanford University / GSB",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated."
+  },
+  "Stanford Law": {
+    "organization": "Stanford Law",
+    "kind": "logo",
+    "path": "/assets/organizations/stanford-law.webp",
+    "fit": "contain",
+    "sourcePage": "https://law.stanford.edu/",
+    "sourceImageUrl": "https://law.stanford.edu/wp-content/themes/stanford-law-school/img/print/header-logo.png",
+    "alt": "Stanford Law official logo",
+    "credit": "Stanford University / Stanford Law",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      600,
+      54
+    ]
+  },
+  "International Relations": {
+    "organization": "International Relations",
+    "kind": "logo",
+    "path": "/assets/organizations/international-relations.webp",
+    "fit": "contain",
+    "sourcePage": "https://internationalrelations.stanford.edu/",
+    "sourceImageUrl": "https://internationalrelations.stanford.edu/sites/internationalrelations/files/styles/responsive_large/public/media/image/intlrelations_footer-01_0.png.webp?itok=KVRPKG6u",
+    "alt": "Stanford International Relations — School of Humanities and Sciences official signature",
+    "credit": "Stanford University / International Relations",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      119
+    ]
+  },
+  "Data Science": {
+    "organization": "Data Science",
+    "kind": "logo",
+    "path": "/assets/organizations/data-science.webp",
+    "fit": "contain",
+    "sourcePage": "https://datasciencemajor.stanford.edu/",
+    "sourceImageUrl": "https://datasciencemajor.stanford.edu/sites/datasciencemajor/files/styles/responsive_large/public/media/image/datascience_footer-01_0.png.webp?itok=wLGI3Lny",
+    "alt": "Stanford Data Science — School of Humanities and Sciences official signature",
+    "credit": "Stanford University / Data Science",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      119
+    ]
+  },
+  "SCCEI": {
+    "organization": "SCCEI",
+    "kind": "logo",
+    "path": "/assets/organizations/sccei.webp",
+    "fit": "contain",
+    "sourcePage": "https://sccei.fsi.stanford.edu/",
+    "sourceImageUrl": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2022-09/sccei-logo.png",
+    "alt": "SCCEI official logo",
+    "credit": "Stanford University / SCCEI",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      500,
+      64
+    ]
+  },
+  "SIEPR": {
+    "organization": "SIEPR",
+    "kind": "logo",
+    "path": "/assets/organizations/siepr.webp",
+    "fit": "contain",
+    "sourcePage": "https://faces.stanford.edu/our-partners",
+    "sourceImageUrl": "https://images.squarespace-cdn.com/content/v1/52ec3acbe4b0ab0f7c8b980a/1520222793073-8L8L532CH7JFLR0GD5DF/SIEPR-Logo-425.jpg",
+    "alt": "SIEPR official logo",
+    "credit": "Stanford University / SIEPR",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      425,
+      80
+    ]
+  },
+  "KIDA": {
+    "organization": "KIDA",
+    "kind": "logo",
+    "path": "/assets/logos/kida-red.png",
+    "fit": "contain",
+    "alt": "KIDA logo",
+    "credit": "KIDA",
+    "rights": "Supplied by KIDA."
+  },
+  "Economics": {
+    "organization": "Economics",
+    "kind": "logo",
+    "path": "/assets/organizations/economics.webp",
+    "fit": "contain",
+    "sourcePage": "https://economics.stanford.edu/",
+    "sourceImageUrl": "https://economics.stanford.edu/sites/economics/files/styles/responsive_large/public/media/image/econ_footer-01_1.png.webp?itok=EQsERcVV",
+    "alt": "Economics is part of the school of humanities and sciences",
+    "credit": "Stanford University / Economics",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      119
+    ]
+  },
+  "Human Rights": {
+    "organization": "Human Rights",
+    "kind": "logo",
+    "path": "/assets/organizations/human-rights.webp",
+    "fit": "contain",
+    "sourcePage": "https://humanrights.stanford.edu/",
+    "sourceImageUrl": "https://humanrights.stanford.edu/sites/humanrights/files/styles/responsive_large/public/media/image/chr_footer-01_0.png.webp?itok=ti6-jx1b",
+    "alt": "The Center for Human Rights and International Justice is part of the School of Humanities and Sciences",
+    "credit": "Stanford University / Human Rights",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      1200,
+      119
+    ]
+  },
+  "Global Health": {
+    "organization": "Global Health",
+    "kind": "logo",
+    "path": "/assets/organizations/global-health.webp",
+    "fit": "contain",
+    "sourcePage": "https://globalhealth.stanford.edu/",
+    "sourceImageUrl": "https://globalhealth.stanford.edu/wp-content/uploads/2018/12/logo@2x.png",
+    "alt": "Stanford Center for Innovation in Global Health official logo",
+    "credit": "Stanford Center for Innovation in Global Health",
+    "rights": "Copyright remains with Stanford University and/or the credited creator. Official event promotional/identification asset; no open-content license stated.",
+    "dimensions": [
+      568,
+      140
+    ]
+  }
+}

@@ -1,0 +1,411 @@
+[
+  {
+    "id": "king-center-academic-year-research",
+    "title": "Academic Year Undergraduate Research Fellows",
+    "organization": "King Center",
+    "host": "King Center on Global Development",
+    "type": "Research",
+    "recordKind": "Program",
+    "location": "Stanford; project arrangements vary",
+    "locationMode": "Varies",
+    "locations": [
+      "Stanford"
+    ],
+    "topics": [
+      "Global development",
+      "Research methods",
+      "Poverty and inequality"
+    ],
+    "eligibility": "Stanford undergraduates enrolled throughout the appointment; graduate-status coterms are ineligible. Students planning to study abroad during the fellowship period are ineligible.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Explore program",
+    "summary": "Build research experience with faculty and researchers studying development in low- and middle-income countries.",
+    "description": [
+      "The academic-year program supports part-time, mentored research on global development. Fellows generally contribute 8–10 hours each week during the academic year.",
+      "The listed Autumn 2026 project deadlines were October 6 or October 11 and have passed. Explore the program and check the official current-opportunities page for future rounds."
+    ],
+    "sourceUrl": "https://kingcenter.stanford.edu/opportunities/undergraduate-students/academic-year-part-time-undergraduate-research-fellow-program",
+    "applicationUrl": null,
+    "verifiedOn": "2026-10-14",
+    "sources": [
+      "https://kingcenter.stanford.edu/opportunities/undergraduate-students/academic-year-part-time-undergraduate-research-fellow/current"
+    ]
+  },
+  {
+    "id": "king-center-summer-research-2027",
+    "title": "Summer Undergraduate Research Fellows",
+    "organization": "King Center",
+    "host": "King Center on Global Development",
+    "type": "Research",
+    "recordKind": "Program",
+    "location": "Stanford, remote, or international field sites; varies by project",
+    "locationMode": "Varies",
+    "locations": [
+      "Stanford",
+      "International",
+      "Remote"
+    ],
+    "topics": [
+      "Global development",
+      "Research methods",
+      "Poverty and inequality"
+    ],
+    "eligibility": "Matriculated Stanford undergraduates returning in the autumn after the fellowship. Coterminal students must retain undergraduate standing; individual projects may add requirements.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Upcoming",
+    "summary": "A summer of faculty-mentored research on global poverty and development; 2027 projects are forthcoming.",
+    "description": [
+      "Summer fellows work full-time on faculty-led development research. Depending on the project, work can take place on campus, remotely, or in a low- or middle-income country.",
+      "The current page now announces Summer Quarter 2027 positions and says applications and project descriptions will be posted on SOLO. No project list or application deadline is published there yet."
+    ],
+    "sourceUrl": "https://kingcenter.stanford.edu/opportunities/undergraduate-students/summer-full-time-undergraduate-research-fellow-program/current",
+    "applicationUrl": null,
+    "verifiedOn": "2026-10-14",
+    "sources": [
+      "https://kingcenter.stanford.edu/opportunities/undergraduate-students/summer-full-time-undergraduate-research-fellow-program"
+    ]
+  },
+  {
+    "id": "king-center-mckinnon-fellowship",
+    "title": "Ronald I. McKinnon Memorial Fellowship",
+    "organization": "King Center",
+    "host": "King Center on Global Development",
+    "type": "Fellowship",
+    "recordKind": "Program",
+    "location": "Stanford; research location varies",
+    "locationMode": "Varies",
+    "locations": [
+      "Stanford"
+    ],
+    "topics": [
+      "Economic development",
+      "International economics",
+      "Research methods"
+    ],
+    "eligibility": "Stanford undergraduates writing or planning an honors thesis in international economics, international finance, or economic development, with a faculty-mentored path to completion by senior year.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Explore program",
+    "summary": "Support for an undergraduate honors thesis on economic development, international economics, or international finance.",
+    "description": [
+      "This fellowship supports independent honors research under faculty mentorship. Applicants need a clear plan to complete the thesis by the end of their senior year and must be registered when funds are received.",
+      "The current page has an Application Deadline heading without a date. Explore the requirements and confirm the next application cycle with the King Center before preparing a submission."
+    ],
+    "sourceUrl": "https://kingcenter.stanford.edu/opportunities/undergraduate-students/ronald-i-mckinnon-memorial-fellowship",
+    "applicationUrl": null,
+    "verifiedOn": "2026-10-14",
+    "sources": []
+  },
+  {
+    "id": "siepr-brazil-vocational-education-autumn-2026",
+    "title": "Research: Vocational Education in Brazil",
+    "organization": "SIEPR",
+    "host": "Stanford Institute for Economic Policy Research; faculty mentor Eric Bettinger",
+    "type": "Research",
+    "recordKind": "Opportunity",
+    "location": "Stanford; confirm working arrangements with the mentor",
+    "locationMode": "Varies",
+    "locations": [
+      "Stanford"
+    ],
+    "topics": [
+      "Education",
+      "Economic development",
+      "Research methods"
+    ],
+    "eligibility": "Full-time Stanford undergraduates. Quantitative applicants need basic data and regression skills; qualitative applicants need familiarity with interviews or surveys. Portuguese is helpful but optional.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": "2026-12-04",
+    "availability": "Open",
+    "summary": "Help study how vocational education reforms affect students in Pernambuco and São Paulo.",
+    "description": [
+      "Support quantitative analysis or qualitative research on Brazilian vocational education. Work may involve data in Stata or R, interview protocols, or surveys.",
+      "SIEPR explicitly lists this as an open Autumn 2026 position. No application deadline is given; consult the current listing before applying."
+    ],
+    "sourceUrl": "https://siepr.stanford.edu/programs/undergraduate-student-opportunities/undergraduate-research-fellows-program/academic-year",
+    "applicationUrl": "https://app.smartsheet.com/b/form/01a0823d87867f63aebf41dd46640710",
+    "verifiedOn": "2026-10-14",
+    "sources": []
+  },
+  {
+    "id": "sig-international-development-fellowships",
+    "title": "SIG International Development Fellowships",
+    "organization": "Stanford in Government",
+    "host": "Stanford in Government; host organizations vary",
+    "type": "Internship",
+    "recordKind": "Program",
+    "location": "United States and international placements; varies by host",
+    "locationMode": "Varies",
+    "locations": [
+      "International",
+      "United States"
+    ],
+    "topics": [
+      "Global development",
+      "Governance",
+      "Public policy"
+    ],
+    "eligibility": "Generally continuing Stanford undergraduates from all years and majors. Graduating seniors are usually ineligible, with a specified coterm exception; graduate-tuition coterms are ineligible.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Explore program",
+    "summary": "Explore development-focused placements in SIG’s international public policy fellowship program.",
+    "description": [
+      "SIG’s international listings include development-focused hosts such as the World Bank and the Ghana Center for Democratic Development. Check each placement’s responsibilities and skills before applying.",
+      "The displayed 2026 application deadlines have passed. The next cycle is not reliably dated on the current site; future placements and deadlines need confirmation."
+    ],
+    "sourceUrl": "https://sig.stanford.edu/international-fellowships",
+    "applicationUrl": null,
+    "verifiedOn": "2026-10-14",
+    "sources": [
+      "https://sig.stanford.edu/fellowships-application-information"
+    ]
+  },
+  {
+    "id": "sig-policy-internship-stipends",
+    "title": "SIG Stipends for a Self-Arranged Policy Internship",
+    "organization": "Stanford in Government",
+    "host": "Stanford in Government",
+    "type": "Fellowship",
+    "recordKind": "Program",
+    "location": "Placement-dependent; United States or international",
+    "locationMode": "Varies",
+    "locations": [
+      "International",
+      "United States"
+    ],
+    "topics": [
+      "Public policy",
+      "Global development",
+      "Governance"
+    ],
+    "eligibility": "Continuing Stanford undergraduates who independently arrange a summer policy internship. A faculty sponsor is required; graduating seniors and coterms have additional restrictions.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Explore program",
+    "summary": "Funding to support a student-arranged internship that directly engages public policy.",
+    "description": [
+      "SIG stipends support students who find their own summer policy placement. Work must directly involve policy research, development, or implementation; general nonprofit work alone does not qualify.",
+      "The 2026 rounds closed February 16 and April 14. For KIDA, explore this funding route for a development-related placement and wait for the next verified call."
+    ],
+    "sourceUrl": "https://sig.stanford.edu/stipends-application-information",
+    "applicationUrl": null,
+    "verifiedOn": "2026-10-14",
+    "sources": []
+  },
+  {
+    "id": "fsi-global-policy-internships",
+    "title": "Global Policy Internships",
+    "organization": "FSI",
+    "host": "Freeman Spogli Institute for International Studies",
+    "type": "Internship",
+    "recordKind": "Program",
+    "location": "International policy organizations worldwide; varies by placement",
+    "locationMode": "On-site",
+    "locations": [
+      "International"
+    ],
+    "topics": [
+      "Global development",
+      "Public policy",
+      "Governance"
+    ],
+    "eligibility": "Stanford students from all departments and levels, including undergraduates, who remain matriculated through the quarter after the internship. Individual hosts set additional requirements.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Explore program",
+    "summary": "Faculty-mentored summer placements at international policy and affairs organizations.",
+    "description": [
+      "FSI provides placement, mentorship, and a stipend for summer policy internships. Each host sets its own skills and eligibility requirements.",
+      "The landing page describes an annual December–January application window. Check the next cycle on SOLO and select a placement with a clear development focus; no 2027 deadline is asserted here."
+    ],
+    "sourceUrl": "https://fsi.stanford.edu/studentprograms/internships/global-policy-internships",
+    "applicationUrl": null,
+    "verifiedOn": "2026-10-14",
+    "sources": [
+      "https://fsi.stanford.edu/studentprograms/internships/global-policy-internships/frequently-asked-questions"
+    ]
+  },
+  {
+    "id": "sgs-development-internships",
+    "title": "Global Studies: Development-Related Internships",
+    "organization": "Stanford Global Studies",
+    "host": "Stanford Global Studies; host organizations vary",
+    "type": "Internship",
+    "recordKind": "Program",
+    "location": "Worldwide; some virtual positions",
+    "locationMode": "Varies",
+    "locations": [
+      "International",
+      "Remote"
+    ],
+    "topics": [
+      "Global development",
+      "Human rights",
+      "Environment and climate"
+    ],
+    "eligibility": "Stanford undergraduates in all majors, including undeclared students; applicants must remain students through the internship. Host-specific skills, language, and graduation rules apply.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Explore program",
+    "summary": "Explore international and virtual internships with a substantive development, health, rights, or sustainability focus.",
+    "description": [
+      "SGS offers prearranged internships and supports self-arranged placements. The wider program spans many fields, so KIDA will highlight only roles with a clear development connection.",
+      "The official SOLO page currently reports no open opportunities. The published 2026 application deadlines have passed; check for the next cycle rather than applying to an archived listing."
+    ],
+    "sourceUrl": "https://solo.stanford.edu/programs/global-studies-internship-program",
+    "applicationUrl": null,
+    "verifiedOn": "2026-10-14",
+    "sources": [
+      "https://sgs.stanford.edu/internships/application",
+      "https://sgs.stanford.edu/funding-opportunities/global-studies-internships"
+    ]
+  },
+  {
+    "id": "human-rights-summer-fellowship",
+    "title": "Human Rights Summer Fellowship",
+    "organization": "Human Rights Center",
+    "host": "Center for Human Rights and International Justice; Stanford Global Studies",
+    "type": "Fellowship",
+    "recordKind": "Program",
+    "location": "United States or international; self-arranged placement",
+    "locationMode": "Varies",
+    "locations": [
+      "International",
+      "United States"
+    ],
+    "topics": [
+      "Human rights",
+      "Global development",
+      "Public policy"
+    ],
+    "eligibility": "Currently enrolled Stanford undergraduate or graduate students. The published requirements include at least two relevant Stanford undergraduate courses, a proposal, recommendation, and partner support.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Explore program",
+    "summary": "Support a student-designed summer placement or community-based research project in human rights and international justice.",
+    "description": [
+      "Fellows work with a relevant organization or community partner on an applied human-rights project, normally full-time for at least nine weeks. Students develop the placement and learning goals themselves.",
+      "The 2026 call closed February 10. The next application cycle has not been verified; use the program page to plan a project and check for an updated call."
+    ],
+    "sourceUrl": "https://humanrights.stanford.edu/opportunities/internships-and-fellowships/human-rights-summer-fellowship",
+    "applicationUrl": null,
+    "verifiedOn": "2026-10-14",
+    "sources": [
+      "https://sgs.stanford.edu/internships/human-rights-summer-fellowship-2026"
+    ]
+  },
+  {
+    "id": "haas-international-public-service",
+    "title": "International Public Service Fellowship",
+    "organization": "Haas Center",
+    "host": "Haas Center for Public Service",
+    "type": "Fellowship",
+    "recordKind": "Program",
+    "location": "Outside the United States; student-arranged organization",
+    "locationMode": "On-site",
+    "locations": [
+      "International"
+    ],
+    "topics": [
+      "Global development",
+      "Public service",
+      "Environment and climate"
+    ],
+    "eligibility": "Continuing Stanford undergraduates. The program page lists freshmen, sophomores, and juniors; individual calls and Cardinal Quarter policies provide the full eligibility rules.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Explore program",
+    "summary": "Design a summer service placement with an international community organization.",
+    "description": [
+      "Students design a full-time, nine-week service experience outside the United States with an organizational supervisor. Service can engage education, health, climate, public interest technology, or related community priorities.",
+      "SOLO currently reports no open opportunities for this program. Explore the requirements now and confirm the next cycle before making application plans."
+    ],
+    "sourceUrl": "https://solo.stanford.edu/programs/international-public-service-fellowships",
+    "applicationUrl": null,
+    "verifiedOn": "2026-10-14",
+    "sources": [
+      "https://haas.stanford.edu/student-programs/fellowships-and-internships/undergraduate-fellowships"
+    ]
+  },
+  {
+    "id": "haas-african-service-fellowship",
+    "title": "African Service Fellowship",
+    "organization": "Center for African Studies",
+    "host": "Center for African Studies; Haas Center for Public Service",
+    "type": "Fellowship",
+    "recordKind": "Program",
+    "location": "Africa; student-arranged organization",
+    "locationMode": "On-site",
+    "locations": [
+      "International"
+    ],
+    "topics": [
+      "Global development",
+      "Public service",
+      "Poverty and inequality"
+    ],
+    "eligibility": "Stanford undergraduates; the official SOLO program lists freshmen, sophomores, and juniors. Apply through the International Public Service Fellowship when a current call is released.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Explore program",
+    "summary": "Plan a self-designed summer project addressing social or economic issues in Africa.",
+    "description": [
+      "This joint fellowship supports student work on social and economic issues in Africa. The official program directs students to the Haas Center’s International Public Service Fellowship application.",
+      "There is currently no open opportunity listed on the program page. Review eligibility and develop a partner relationship while awaiting the next verified call."
+    ],
+    "sourceUrl": "https://solo.stanford.edu/programs/african-service-fellowships",
+    "applicationUrl": null,
+    "verifiedOn": "2026-10-14",
+    "sources": [
+      "https://africanstudies.stanford.edu/academics/fellowships",
+      "https://solo.stanford.edu/programs/international-public-service-fellowships"
+    ]
+  },
+  {
+    "id": "unv-online-volunteering",
+    "title": "UNV Online Volunteering",
+    "organization": "United Nations Volunteers",
+    "host": "United Nations Volunteers; assignment hosts vary",
+    "type": "Volunteer",
+    "recordKind": "Program",
+    "location": "Remote; worldwide",
+    "locationMode": "Remote",
+    "locations": [
+      "International",
+      "Remote"
+    ],
+    "topics": [
+      "Sustainable development",
+      "Public service",
+      "Human rights"
+    ],
+    "eligibility": "Anyone aged 18 or older may register. No universal degree or professional background is required, but each assignment has its own language, skills, and availability requirements.",
+    "undergraduateEligible": "Yes",
+    "deadline": null,
+    "expiresOn": null,
+    "availability": "Explore program",
+    "summary": "Find short, remote volunteer assignments supporting sustainable human development.",
+    "description": [
+      "UNV’s platform connects volunteers with defined online assignments from participating organizations. These are unpaid volunteer tasks, with assignment-specific requirements and deadlines.",
+      "Filter the official platform for online assignments and choose tasks that match your skills. The program permits up to 20 hours each week for a maximum of 12 weeks per assignment; this listing does not promise a particular vacancy."
+    ],
+    "sourceUrl": "https://www.unv.org/become-online-volunteer",
+    "applicationUrl": "https://app.unv.org/",
+    "verifiedOn": "2026-10-14",
+    "sources": []
+  }
+]
